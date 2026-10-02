@@ -1,0 +1,22 @@
+{
+  "term": "Summer 2027",
+  "community": [
+    {"name": "SimplifyJobs", "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"},
+    {"name": "vanshb03", "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json"}
+  ],
+  "greenhouse": [
+    {"company": "SpaceX", "board": "spacex"},
+    {"company": "Anduril", "board": "andurilindustries"},
+    {"company": "Relativity Space", "board": "relativity"}
+  ],
+  "lever": [],
+  "workday": [
+    {"company": "NVIDIA", "host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite", "search": "intern 2027"},
+    {"company": "RTX (Collins / Raytheon / Pratt)", "host": "globalhr.wd5.myworkdayjobs.com", "tenant": "globalhr", "site": "REC_RTX_Ext_Gateway", "search": "intern"}
+  ],
+  "_notes": [
+    "Indeed and Glassdoor are deliberately not scraped (bot walls, ToS).",
+    "Company pages beat aggregators when they disagree.",
+    "Garmin and CNH (join.cnh.com, SuccessFactors) are covered through SimplifyJobs for now; no direct adapter yet."
+  ]
+}

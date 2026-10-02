@@ -1,0 +1,56 @@
+name: Daily internship feed
+
+on:
+  schedule:
+    - cron: "17 13 * * *"   # 13:17 UTC = 8:17 am Central
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: daily-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build feed
+        run: python feed/scripts/build_feed.py
+
+      - name: Commit regenerated feed
+        run: |
+          git config user.name "internship-feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data feed/state
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Feed update $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Notify on new postings or opened watchlist programs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          notify=$(python - <<'PY'
+          import json
+          c = json.load(open("docs/data/changes.json"))
+          f = {p["id"]: p for p in json.load(open("docs/data/feed.json"))["postings"]}
+          good = [i for i in c["new_ids"] if f[i]["us"] and f[i]["match"]["label"] != "Low"]
+          print("yes" if c["promoted"] or (good and not c["baseline"]) else "no")
+          PY
+          )
+          if [ "$notify" = "yes" ]; then
+            gh issue create --title "Internship feed: $(date -u +%Y-%m-%d)" \
+              --body-file feed/state/run_summary.md --assignee "${{ github.repository_owner }}"
+          fi

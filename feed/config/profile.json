@@ -1,0 +1,160 @@
+{
+  "_about": "Skill keywords for the heuristic match score. This repo and its Pages site are public: keep personal details out.",
+  "grad_year": 2029,
+  "us_person": false,
+  "keywords": {
+    "strong": {
+      "weight": 14,
+      "terms": [
+        "embedded",
+        "firmware",
+        "robotics",
+        "robot",
+        "can bus",
+        "battery management",
+        "bms",
+        "rtos",
+        "microcontroller",
+        "mcu",
+        "linux kernel",
+        "buildroot",
+        "device driver",
+        "ros",
+        "ros2",
+        "autonomy",
+        "autonomous",
+        "avionics",
+        "mechatronics",
+        "controls"
+      ]
+    },
+    "medium": {
+      "weight": 8,
+      "terms": [
+        "hardware",
+        "electrical",
+        "c++",
+        "linux",
+        "vehicle",
+        "test engineer",
+        "test engineering",
+        "systems engineer",
+        "systems software",
+        "computer vision",
+        "opencv",
+        "perception",
+        "jetson",
+        "i2c",
+        "spi",
+        "uart",
+        "sensor",
+        "drone",
+        "uav",
+        "auv",
+        "spacecraft",
+        "satellite",
+        "rocket",
+        "propulsion",
+        "flight software",
+        "motor",
+        "power electronics",
+        "manufacturing",
+        "mechanical",
+        "raspberry pi",
+        "arm",
+        "simulation",
+        "hardware-in-the-loop",
+        "hil",
+        "validation",
+        "integration"
+      ]
+    },
+    "light": {
+      "weight": 4,
+      "terms": [
+        "software",
+        "python",
+        "java",
+        "bash",
+        "machine learning",
+        "intrusion detection",
+        "security",
+        "network",
+        "llm",
+        "agent",
+        "onshape",
+        "fusion 360",
+        "cad",
+        "3d printing",
+        "infrastructure",
+        "tools"
+      ]
+    }
+  },
+  "category_bonus": {
+    "Hardware": 18,
+    "Software": 10,
+    "Software Engineering": 10,
+    "AI/ML/Data": 4,
+    "Quant": -6,
+    "Product": -10
+  },
+  "negative": {
+    "weight": -30,
+    "terms": [
+      "phd",
+      "ph.d",
+      "master's",
+      "masters",
+      "mba",
+      "graduate student",
+      "postdoc",
+      "sales",
+      "marketing",
+      "finance",
+      "accounting",
+      "legal",
+      "human resources",
+      "recruiting",
+      "supply chain analyst",
+      "business analyst"
+    ]
+  },
+  "underclass_terms": [
+    "freshman",
+    "freshmen",
+    "sophomore",
+    "first-year student",
+    "first year student",
+    "second-year student",
+    "second year student",
+    "underclass"
+  ],
+  "upperclass_terms": [
+    "rising senior",
+    "penultimate",
+    "final year",
+    "graduating in 2027",
+    "graduating in 2028"
+  ],
+  "export_control_terms": [
+    "itar",
+    "u.s. person",
+    "us person",
+    "export control",
+    "export-control",
+    "security clearance",
+    "u.s. citizen",
+    "us citizen",
+    "citizenship"
+  ],
+  "underclass_title_terms": [
+    "explore",
+    "step",
+    "propel",
+    "first-year",
+    "first year",
+    "second-year",
+    "second year"
+  ]
+}
