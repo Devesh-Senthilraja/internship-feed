@@ -29,7 +29,9 @@ Every 6 hours, `.github/workflows/daily-feed.yml`:
 ## On the page
 
 - **☆ Pin** keeps a posting at the top of the page. Pins are saved in your browser only.
-- **+ Tracker** opens the private My Applications tracker with the posting ready to add, on any device.
+- **Copy to tracker** copies the posting and opens the private My Applications tracker; click
+  "Paste from feed" there and press Ctrl+V to add it. (The claude.ai viewer drops data carried in
+  the link itself, so the clipboard does the work.)
 - **N sources** in the header lists every source with a link and its posting count. Each tile's "via" line names the sources that listed it.
 
 ## Run locally
