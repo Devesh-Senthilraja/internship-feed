@@ -2,7 +2,7 @@ name: Daily internship feed
 
 on:
   schedule:
-    - cron: "17 13 * * *"   # 13:17 UTC = 8:17 am Central
+    - cron: "17 1,7,13,19 * * *"   # every 6 hours: 8:17 pm, 2:17 am, 8:17 am, 2:17 pm Central (CDT)
   workflow_dispatch:
 
 permissions:
@@ -30,7 +30,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Feed update $(date -u +%Y-%m-%d)"
+            git commit -m "Feed update $(date -u "+%Y-%m-%d %H:%M UTC")"
             git push
           fi
 
@@ -47,6 +47,6 @@ jobs:
           PY
           )
           if [ "$notify" = "yes" ]; then
-            gh issue create --title "Internship feed: $(date -u +%Y-%m-%d)" \
+            gh issue create --title "Internship feed: $(date -u "+%Y-%m-%d %H:%M UTC")" \
               --body-file feed/state/run_summary.md --assignee "${{ github.repository_owner }}"
           fi

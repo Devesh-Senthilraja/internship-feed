@@ -7,7 +7,7 @@ Everything here is public. Personal files live in a separate private repo.
 
 ## How it works
 
-Once a day, `.github/workflows/daily-feed.yml`:
+Every 6 hours, `.github/workflows/daily-feed.yml`:
 
 1. pulls the SimplifyJobs and vanshb03 Summer 2027 trackers plus company boards
    (Greenhouse: SpaceX, Anduril, Relativity; Workday: NVIDIA, RTX),
@@ -50,5 +50,5 @@ python -m http.server -d docs 8000   # http://localhost:8000
 ## Setup
 
 - **Pages:** Settings → Pages → Deploy from a branch → `main`, folder `/docs`.
-- **Daily job:** runs once a day from `main` at 13:17 UTC (8:17 am Central). Run it by hand from Actions → *Daily internship feed* → Run workflow.
+- **Scheduled job:** runs every 6 hours from `main` (01:17, 07:17, 13:17 and 19:17 UTC). Run it by hand from Actions → *Daily internship feed* → Run workflow.
 - **Notifications:** turn on GitHub notifications for this repo's issues.
