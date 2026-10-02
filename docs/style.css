@@ -124,3 +124,4 @@ dialog#sources::backdrop { background: rgb(0 0 0 / 0.45); }
 .src-count.bad { color: var(--warn); font-weight: 600; }
 .src-kind { font-size: 0.82rem; color: var(--muted); }
 code { font-size: 0.85em; }
+.toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(16px + env(safe-area-inset-bottom, 0px)); max-width: min(560px, calc(100vw - 32px)); background: var(--text); color: var(--bg); padding: 10px 14px; border-radius: 10px; font-size: 0.88rem; box-shadow: 0 4px 16px rgb(0 0 0 / 0.25); z-index: 10; }

@@ -1,0 +1,15 @@
+{
+  "_about": "Live-site checks that override the aggregators. A posting whose URL is listed here is dropped from the feed and can't open a watchlist item. Add an entry whenever a company's own page disagrees with SimplifyJobs or vanshb03.",
+  "items": [
+    {
+      "checked": "2026-10-02",
+      "company": "Rivian",
+      "finding": "Rivian's own careers site lists only Spring 2027 internships; Summer 2027 is not open. SimplifyJobs tagged these as Summer 2027.",
+      "urls": [
+        "https://careers.rivian.com/jobs/33725",
+        "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b/application",
+        "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application"
+      ]
+    }
+  ]
+}

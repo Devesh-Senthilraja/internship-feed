@@ -258,7 +258,7 @@ def is_us(locations) -> bool:
     return any(not NON_US.search(re.sub(r"\b(on|bc|qc|ab|uk)\b(?!$)", "", l.strip(), flags=re.I)) for l in locations)
 
 
-def check_watchlist(watch, postings, wstate):
+def check_watchlist(watch, postings, wstate, blocked=frozenset()):
     promoted = []
     for item in watch["items"]:
         st = wstate.setdefault(item["id"], {"status": "NOT_YET", "opened_at": None})
@@ -271,6 +271,9 @@ def check_watchlist(watch, postings, wstate):
             if item.get("location_regex") and not any(re.search(item["location_regex"], l, re.I) for l in p["locations"]):
                 continue
             hits.append(p["id"])
+        if not hits and st["status"] == "OPEN" and st.get("matches") and all(m in blocked for m in st["matches"]):
+            # Every posting that opened it was a corrected aggregator error: back to NOT_YET.
+            st.update(status="NOT_YET", opened_at=None)
         if hits and st["status"] == "NOT_YET":
             if item.get("notify", True):
                 st.update(status="OPEN", opened_at=NOW)
@@ -312,6 +315,13 @@ def main():
         if os.environ.get("FEED_CACHE"):
             save(cache, collected)
 
+    corrections = load(CONFIG / "corrections.json", {"items": []})
+    blocked = {make_id("", "", u) for c in corrections["items"] for u in c.get("urls", [])}
+    dropped = [p for p in collected if p["id"] in blocked]
+    collected = [p for p in collected if p["id"] not in blocked]
+    if dropped:
+        report.append({"name": "Live-site corrections", "kind": "Postings removed after checking the company page",
+                       "url": "", "ok": True, "count": -len({p["id"] for p in dropped})})
     postings = dedupe([p for p in collected if not other_season_only(p["title"], term)])
 
     seen = load(STATE / "seen.json", {})
@@ -331,7 +341,7 @@ def main():
     seen = {k: v for k, v in seen.items() if k in live or NOW - v < 120 * DAY}
 
     wstate = load(STATE / "watchlist_state.json", {})
-    promoted = check_watchlist(watch, postings, wstate)
+    promoted = check_watchlist(watch, postings, wstate, blocked)
 
     postings.sort(key=lambda p: (p["posted"] or p["first_seen"]), reverse=True)
 

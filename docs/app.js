@@ -83,7 +83,7 @@
     $("sourceList").innerHTML = feed.sources.map((s) => `<li>
       <div class="src-head">
         <span class="src-name">${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>` : esc(s.name)}</span>
-        <span class="src-count ${s.ok ? "" : "bad"}">${s.ok ? s.count + " postings" : "failed"}</span>
+        <span class="src-count ${s.ok ? "" : "bad"}">${!s.ok ? "failed" : s.count < 0 ? -s.count + " removed" : s.count + " postings"}</span>
       </div>
       <div class="src-kind">${esc(s.kind || "")}${s.error ? " · " + esc(s.error) : ""}</div>
     </li>`).join("");
@@ -135,7 +135,7 @@
       <div class="foot">
         <span title="First seen by this feed: ${new Date(p.first_seen * 1000).toLocaleDateString()}">Posted ${ago(p.posted || p.first_seen)}</span>
         <span class="actions">
-          ${state.trackerUrl ? `<a href="${esc(trackerLink(p))}" target="_blank" rel="noopener" title="Open My Applications with this posting ready to save">+ Tracker</a>` : ""}
+          ${state.trackerUrl ? `<a href="${esc(trackerLink(p))}" data-tracker target="_blank" rel="noopener" title="Add this posting to My Applications">+ Tracker</a>` : ""}
           <a href="${esc(p.url)}" target="_blank" rel="noopener">Apply →</a>
         </span>
       </div>
@@ -161,12 +161,12 @@
     const bad = feed.sources.filter((s) => !s.ok).map((s) => s.name);
     $("term").textContent = feed.term;
     $("meta").textContent = `Updated ${new Date(feed.generated_at * 1000).toLocaleString()} · ${feed.count} postings from`;
-    $("srcBtn").textContent = `${feed.sources.length} sources`;
+    $("srcBtn").textContent = `${feed.sources.filter((s) => s.count >= 0).length} sources`;
     $("srcBtn").hidden = false;
     $("meta2").textContent = (changes.baseline ? "" : ` · ${changes.new_count} new since last run`) + (bad.length ? ` · failed: ${bad.join(", ")}` : "");
     const cats = [...new Set(feed.postings.map((p) => p.category).filter(Boolean))].sort();
     $("category").insertAdjacentHTML("beforeend", cats.map((c) => `<option>${esc(c)}</option>`).join(""));
-    $("source").insertAdjacentHTML("beforeend", feed.sources.filter((s) => s.count).map((s) => `<option>${esc(s.name)}</option>`).join(""));
+    $("source").insertAdjacentHTML("beforeend", feed.sources.filter((s) => s.count > 0).map((s) => `<option>${esc(s.name)}</option>`).join(""));
     renderSources(feed);
     renderWatch(watch);
     renderPins();
@@ -179,6 +179,17 @@
     const b = e.target.closest("[data-pin]");
     if (b) togglePin(b.dataset.pin);
   });
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("a[data-tracker]");
+    if (!a) return;
+    // Belt and braces: the link also goes to the clipboard, so pasting it into the tracker works
+    // even if the viewer drops the #add- anchor on the way.
+    navigator.clipboard?.writeText(a.href).then(() => toast("Opening the tracker. If it doesn’t add the posting by itself, paste there (Ctrl+V)."), () => {});
+  });
+  function toast(msg) {
+    const t = $("toast"); t.textContent = msg; t.hidden = false;
+    clearTimeout(toast.timer); toast.timer = setTimeout(() => { t.hidden = true; }, 6000);
+  }
   $("srcBtn").addEventListener("click", () => $("sources").showModal());
   $("srcClose").addEventListener("click", () => $("sources").close());
   $("sources").addEventListener("click", (e) => { if (e.target === $("sources")) $("sources").close(); });
