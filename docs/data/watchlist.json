@@ -1,0 +1,151 @@
+{
+ "generated_at": 1790929858,
+ "items": [
+  {
+   "id": "google-step",
+   "name": "Google STEP Internship",
+   "company_regex": "^google$",
+   "title_regex": "\\bSTEP\\b",
+   "note": "Explicit freshman track. Not confirmed open as of Oct 2.",
+   "link": "https://www.google.com/about/careers/applications/jobs/results/?q=STEP%20intern",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "microsoft-explore",
+   "name": "Microsoft Explore Program",
+   "company_regex": "^microsoft",
+   "title_regex": "explore",
+   "note": "Explicit 1st/2nd-year program. Not confirmed open for the 2027 cycle.",
+   "link": "https://careers.microsoft.com/v2/global/en/exploremicrosoft",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "amazon-underclass",
+   "name": "Amazon Propel (unconfirmed)",
+   "company_regex": "^amazon",
+   "title_regex": "propel|freshman|sophomore|first[- ]year|future engineer",
+   "note": "No live Propel-branded posting found as of Sep 30; may be discontinued. General SDE intern listings are open.",
+   "link": "https://www.amazon.jobs/en/teams/internships-for-students",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "nvidia-2027",
+   "name": "NVIDIA Summer 2027 US hardware/embedded internship",
+   "company_regex": "^nvidia",
+   "title_regex": "(hardware|embedded|firmware|system|robotics|software).*(intern)",
+   "location_regex": "(, [A-Z]{2}$|United States|US, |USA|Remote)",
+   "note": "Watching for US-located Summer 2027 hardware/embedded/systems roles.",
+   "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+   "status": "OPEN",
+   "opened_at": 1790926137,
+   "matches": [
+    "8ab41393530d",
+    "09ab5929406b",
+    "a6b7e275f5e7",
+    "3bf97c48ffb6"
+   ],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "ww-grainger-gtg",
+   "name": "W.W. Grainger GTG tracks",
+   "company_regex": "grainger",
+   "title_regex": "intern",
+   "note": "GTG postings are live, but all 6 tracks require grad dates well before May 2029 (verified live), so this stays Not Yet for you. Shown as POSTED, never notifies.",
+   "link": "https://jobs.grainger.com/",
+   "notify": false,
+   "status": "POSTED",
+   "opened_at": 1790926137,
+   "matches": [
+    "855b57ebdcaa",
+    "8e13ab668bd8"
+   ],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "linkedin-first-play",
+   "name": "LinkedIn First Play",
+   "company_regex": "^linkedin",
+   "title_regex": "first ?play",
+   "note": "Explicit underclassman program. Not open yet as of Sep 30.",
+   "link": "https://careers.linkedin.com/students",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "nvidia-ignite",
+   "name": "NVIDIA Ignite (freshman/sophomore pre-internship)",
+   "company_regex": "^nvidia",
+   "title_regex": "ignite",
+   "note": "Rolling, no fixed deadline. May prioritize underrepresented groups.",
+   "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=ignite",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "hrt-inside",
+   "name": "Hudson River Trading: Inside HRT",
+   "company_regex": "hudson river|^hrt",
+   "title_regex": "inside hrt|first[- ]year|freshman|sophomore",
+   "note": "Explicit 1st/2nd-year STEM program. Pre-launch for the 2027 cycle.",
+   "link": "https://www.hudsonrivertrading.com/campus-recruiting/",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "uber-ucp",
+   "name": "Uber Career Prep",
+   "company_regex": "^uber",
+   "title_regex": "career prep|\\bucp\\b",
+   "note": "Explicit 1st/2nd-year program. 2027 cohort not announced yet.",
+   "link": "https://university-uber.com/",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "two-sigma-first-year",
+   "name": "Two Sigma First Year Software Engineering Internship",
+   "company_regex": "two sigma",
+   "title_regex": "first[- ]year|freshman",
+   "note": "Explicit first-year program. No live 2027 posting yet.",
+   "link": "https://careers.twosigma.com/careers/Students",
+   "status": "NOT_YET",
+   "opened_at": null,
+   "matches": [],
+   "last_checked": 1790929858
+  },
+  {
+   "id": "rivian-2027",
+   "name": "Rivian Summer 2027 internships",
+   "company_regex": "^rivian",
+   "title_regex": "intern",
+   "location_regex": "(, [A-Z]{2}$|United States|USA|Remote)",
+   "note": "Grad window Dec 2027 to June 2029 fits May 2029. Usually opens Sept to Oct.",
+   "link": "https://careers.rivian.com/",
+   "status": "OPEN",
+   "opened_at": 1790928639,
+   "matches": [
+    "8269f863ab0f",
+    "28dc275c7923"
+   ],
+   "last_checked": 1790929858
+  }
+ ]
+}
