@@ -17,14 +17,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - uses: actions/checkout@v6
 
       - name: Build feed
-        run: python feed/scripts/build_feed.py
+        run: python3 feed/scripts/build_feed.py
 
       - name: Commit regenerated feed
         run: |
@@ -42,7 +38,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          notify=$(python - <<'PY'
+          notify=$(python3 - <<'PY'
           import json
           c = json.load(open("docs/data/changes.json"))
           f = {p["id"]: p for p in json.load(open("docs/data/feed.json"))["postings"]}

@@ -192,6 +192,24 @@ def workday_posted(text: str):
     return NOW - int(m.group(1)) * DAY if m else None
 
 
+KIND_LABEL = {"community": "Community tracker (GitHub)", "greenhouse": "Company board (Greenhouse)",
+              "lever": "Company board (Lever)", "workday": "Company board (Workday)"}
+
+
+def source_page(kind, src):
+    """A human-readable page for each source, for the site's Sources panel."""
+    if kind == "community":
+        m = re.match(r"https://raw\.githubusercontent\.com/([^/]+/[^/]+)/", src["url"])
+        return f"https://github.com/{m.group(1)}" if m else src["url"]
+    if kind == "greenhouse":
+        return f'https://job-boards.greenhouse.io/{src["board"]}'
+    if kind == "lever":
+        return f'https://jobs.lever.co/{src["account"]}'
+    if kind == "workday":
+        return f'https://{src["host"]}/{src["site"]}'
+    return ""
+
+
 ADAPTERS = {"community": fetch_community, "greenhouse": fetch_greenhouse, "lever": fetch_lever,
             "workday": fetch_workday}
 
@@ -223,13 +241,21 @@ def dedupe(items):
     return list(by_key.values())
 
 
+NON_US = re.compile(
+    r"\b(canada|ontario|quebec|british columbia|toronto|vancouver|montreal|waterloo|ottawa|calgary|"
+    r"china|shanghai|beijing|shenzhen|taiwan|taipei|hsinchu|india|bangalore|bengaluru|hyderabad|pune|"
+    r"united kingdom|england|london|cambridge, uk|ireland|dublin|germany|munich|berlin|france|paris|"
+    r"netherlands|amsterdam|poland|warsaw|switzerland|zurich|israel|tel aviv|japan|tokyo|korea|seoul|"
+    r"singapore|australia|sydney|mexico|brazil|vietnam|malaysia|philippines|uk|on|bc|qc|ab)\b",
+    re.I)
+
+
 def is_us(locations) -> bool:
+    """US unless every location names somewhere else ("Flexible - Any SpaceX Site" counts as US)."""
     if not locations:
         return True
-    for l in locations:
-        if re.search(r",\s*[A-Z]{2}$|United States|\bUSA?\b|Remote", l) and not re.search(r"Canada|\bON\b|\bBC\b|\bQC\b", l):
-            return True
-    return False
+    # Two-letter province codes only count at the end ("Toronto, ON"), not as words like "on".
+    return any(not NON_US.search(re.sub(r"\b(on|bc|qc|ab|uk)\b(?!$)", "", l.strip(), flags=re.I)) for l in locations)
 
 
 def check_watchlist(watch, postings, wstate):
@@ -274,13 +300,14 @@ def main():
     else:
         for kind, fn in ADAPTERS.items():
             for src in sources.get(kind, []):
-                name = src.get("name") or f'{kind}:{src.get("company")}'
+                name = src.get("name") or f'{kind.capitalize()} ({src.get("company")})'  # matches each posting's source label
+                meta = {"name": name, "kind": KIND_LABEL[kind], "url": source_page(kind, src)}
                 try:
                     got = fn(src, term)
                     collected += got
-                    report.append({"name": name, "ok": True, "count": len(got)})
+                    report.append({**meta, "ok": True, "count": len(got)})
                 except Exception as e:  # one broken source must not kill the run
-                    report.append({"name": name, "ok": False, "count": 0, "error": str(e)[:200]})
+                    report.append({**meta, "ok": False, "count": 0, "error": str(e)[:200]})
                     print(f"WARN {name}: {e}", file=sys.stderr)
         if os.environ.get("FEED_CACHE"):
             save(cache, collected)

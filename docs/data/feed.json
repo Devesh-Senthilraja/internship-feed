@@ -1,39 +1,53 @@
 {
- "generated_at": 1790930502,
+ "generated_at": 1790930918,
  "term": "Summer 2027",
  "sources": [
   {
    "name": "SimplifyJobs",
+   "kind": "Community tracker (GitHub)",
+   "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
    "ok": true,
    "count": 2128
   },
   {
    "name": "vanshb03",
+   "kind": "Community tracker (GitHub)",
+   "url": "https://github.com/vanshb03/Summer2027-Internships",
    "ok": true,
    "count": 214
   },
   {
-   "name": "greenhouse:SpaceX",
+   "name": "Greenhouse (SpaceX)",
+   "kind": "Company board (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/spacex",
    "ok": true,
    "count": 6
   },
   {
-   "name": "greenhouse:Anduril",
+   "name": "Greenhouse (Anduril)",
+   "kind": "Company board (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/andurilindustries",
    "ok": true,
    "count": 6
   },
   {
-   "name": "greenhouse:Relativity Space",
+   "name": "Greenhouse (Relativity Space)",
+   "kind": "Company board (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/relativity",
    "ok": true,
    "count": 0
   },
   {
-   "name": "workday:NVIDIA",
+   "name": "Workday (NVIDIA)",
+   "kind": "Company board (Workday)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
    "ok": true,
    "count": 38
   },
   {
-   "name": "workday:RTX (Collins / Raytheon / Pratt)",
+   "name": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "kind": "Company board (Workday)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
    "ok": true,
    "count": 94
   }
@@ -52,7 +66,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -75,7 +89,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -148,7 +162,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -172,7 +186,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -195,7 +209,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -241,7 +255,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -562,7 +576,7 @@
    "locations": [
     "East Granby, CT"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -583,7 +597,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -604,7 +618,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -628,7 +642,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -649,7 +663,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -672,7 +686,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -695,7 +709,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -716,7 +730,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -737,7 +751,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -758,7 +772,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -779,7 +793,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -802,7 +816,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -825,7 +839,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -846,7 +860,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "also_on": [
@@ -870,7 +884,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -893,7 +907,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -916,7 +930,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -937,7 +951,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -960,7 +974,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -981,7 +995,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1002,7 +1016,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1023,7 +1037,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1044,7 +1058,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1065,7 +1079,7 @@
    "locations": [
     "Aguadilla, PR"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1088,7 +1102,7 @@
    "locations": [
     "East Hartford-Obg, CT"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1109,7 +1123,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1132,7 +1146,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1153,7 +1167,7 @@
    "locations": [
     "Andover, MA"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1174,7 +1188,7 @@
    "locations": [
     "Andover, MA"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1195,7 +1209,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1216,7 +1230,7 @@
    "locations": [
     "Mckinney, TX"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1237,7 +1251,7 @@
    "locations": [
     "Mckinney, TX"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1258,7 +1272,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1279,7 +1293,7 @@
    "locations": [
     "Remote, TX"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1300,7 +1314,7 @@
    "locations": [
     "Andover, MA"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1321,7 +1335,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1344,7 +1358,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1367,7 +1381,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1390,7 +1404,7 @@
    "locations": [
     "Farmington, NM"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1413,7 +1427,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1434,7 +1448,7 @@
    "locations": [
     "Manchester, IA"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1455,7 +1469,7 @@
    "locations": [
     "Melbourne, FL"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1476,7 +1490,7 @@
    "locations": [
     "Melbourne, FL"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1497,7 +1511,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "also_on": [
@@ -1525,7 +1539,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "also_on": [
@@ -1553,7 +1567,7 @@
    "locations": [
     "Melbourne, FL"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1574,7 +1588,7 @@
    "locations": [
     "Melbourne, FL"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1595,7 +1609,7 @@
    "locations": [
     "Middletown, CT"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1616,7 +1630,7 @@
    "locations": [
     "East Hartford-Etc, CT"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -1637,7 +1651,7 @@
    "locations": [
     "Rockford, IL"
    ],
-   "posted": 1790844102,
+   "posted": 1790844518,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -2587,7 +2601,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 9,
     "label": "Low",
@@ -2613,7 +2627,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -2879,7 +2893,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -2922,11 +2936,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -2943,11 +2957,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -2966,7 +2980,7 @@
    "locations": [
     "Tucson, AZ"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -2987,7 +3001,7 @@
    "locations": [
     "Jupiter-Adr, FL"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -3008,7 +3022,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -3029,7 +3043,7 @@
    "locations": [
     "East Hartford-Obg, CT"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -3050,7 +3064,7 @@
    "locations": [
     "East Hartford-Etc, CT"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -3071,7 +3085,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -3092,7 +3106,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -3115,7 +3129,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790757702,
+   "posted": 1790758118,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -3534,7 +3548,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -3873,7 +3887,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -3897,7 +3911,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -3916,11 +3930,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -3937,7 +3951,7 @@
    "locations": [
     "Taiwan, Taipei"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -3960,7 +3974,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "also_on": [
@@ -3987,7 +4001,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "also_on": [
@@ -4012,7 +4026,7 @@
    "locations": [
     "Burnsville-Mems, MN"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4035,7 +4049,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4059,7 +4073,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4080,7 +4094,7 @@
    "locations": [
     "Tewksbury, MA"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4103,7 +4117,7 @@
    "locations": [
     "Jamestown, ND"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4126,7 +4140,7 @@
    "locations": [
     "Jamestown, ND"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4149,7 +4163,7 @@
    "locations": [
     "Windsor Locks, CT"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4170,7 +4184,7 @@
    "locations": [
     "Cedar Rapids, IA"
    ],
-   "posted": 1790671302,
+   "posted": 1790671718,
    "source": "Workday (RTX (Collins / Raytheon / Pratt))",
    "category": "",
    "first_seen": 1790926137,
@@ -4738,7 +4752,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -5037,7 +5051,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -5103,7 +5117,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1790584902,
+   "posted": 1790585318,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -5124,7 +5138,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1790584902,
+   "posted": 1790585318,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -5319,7 +5333,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -5342,7 +5356,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -5484,7 +5498,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -5507,7 +5521,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -5862,7 +5876,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -5885,7 +5899,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -6260,7 +6274,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -6407,7 +6421,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -6430,7 +6444,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -6453,7 +6467,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -6476,7 +6490,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -6501,7 +6515,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 61,
     "label": "Medium",
@@ -6595,7 +6609,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 65,
     "label": "Medium",
@@ -6620,7 +6634,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -6643,7 +6657,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -7041,7 +7055,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 25,
     "label": "Low",
@@ -7473,7 +7487,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -7516,11 +7530,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1790152902,
+   "posted": 1790153318,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -7543,7 +7557,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -7566,7 +7580,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -7590,7 +7604,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -7614,7 +7628,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 65,
     "label": "Medium",
@@ -7891,7 +7905,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -8152,7 +8166,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -8252,7 +8266,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 47,
     "label": "Low",
@@ -8277,7 +8291,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 61,
     "label": "Medium",
@@ -8494,7 +8508,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -8513,7 +8527,7 @@
    "locations": [
     "US, CA, Santa Clara"
    ],
-   "posted": 1790066502,
+   "posted": 1790066918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -8584,7 +8598,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -8820,7 +8834,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -8967,7 +8981,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -9036,7 +9050,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -9180,7 +9194,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -9203,7 +9217,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -9366,7 +9380,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -9412,7 +9426,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -9435,7 +9449,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -9650,7 +9664,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -9669,7 +9683,7 @@
    "locations": [
     "US, CA, Santa Clara"
    ],
-   "posted": 1789980102,
+   "posted": 1789980518,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -9817,7 +9831,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -9970,7 +9984,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -10623,7 +10637,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -10647,7 +10661,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -10670,7 +10684,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -10693,7 +10707,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -10716,7 +10730,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -10786,7 +10800,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -10880,7 +10894,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -11166,7 +11180,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -11738,7 +11752,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 9,
     "label": "Low",
@@ -11781,11 +11795,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1789634502,
+   "posted": 1789634918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 5,
     "label": "Low",
@@ -11806,11 +11820,11 @@
    "locations": [
     "3 Locations"
    ],
-   "posted": 1789634502,
+   "posted": 1789634918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 5,
     "label": "Low",
@@ -12030,7 +12044,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -12504,7 +12518,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -12575,7 +12589,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -12861,7 +12875,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -12885,7 +12899,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 43,
     "label": "Low",
@@ -12909,7 +12923,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -12933,7 +12947,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -13075,7 +13089,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1789548102,
+   "posted": 1789548518,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -14286,7 +14300,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -14374,7 +14388,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1789461702,
+   "posted": 1789462118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -14395,7 +14409,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1789461702,
+   "posted": 1789462118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -14416,7 +14430,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1789461702,
+   "posted": 1789462118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -14437,7 +14451,7 @@
    "locations": [
     "Taiwan, Hsinchu"
    ],
-   "posted": 1789461702,
+   "posted": 1789462118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -14612,7 +14626,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 0,
     "label": "Low",
@@ -14638,7 +14652,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -14661,7 +14675,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -14684,7 +14698,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -14707,7 +14721,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -14730,7 +14744,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -14753,7 +14767,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 0,
     "label": "Low",
@@ -14779,7 +14793,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 0,
     "label": "Low",
@@ -14828,7 +14842,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 0,
     "label": "Low",
@@ -14854,7 +14868,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -15093,7 +15107,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -15613,7 +15627,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -16238,7 +16252,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 69,
     "label": "Medium",
@@ -16311,7 +16325,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -16336,7 +16350,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -16559,7 +16573,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -16680,7 +16694,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -16704,7 +16718,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 25,
     "label": "Low",
@@ -16727,7 +16741,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 25,
     "label": "Low",
@@ -16750,7 +16764,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -16774,7 +16788,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -16797,7 +16811,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -16896,7 +16910,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -17158,7 +17172,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -17228,7 +17242,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -17297,7 +17311,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 9,
     "label": "Low",
@@ -17915,7 +17929,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -17941,7 +17955,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -18077,7 +18091,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1789202502,
+   "posted": 1789202918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -18272,7 +18286,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -18296,7 +18310,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -18319,7 +18333,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -18482,7 +18496,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -18505,7 +18519,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -18575,7 +18589,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -18839,7 +18853,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -18960,7 +18974,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -19006,7 +19020,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -19029,7 +19043,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -19075,7 +19089,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -19098,7 +19112,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -19479,7 +19493,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 61,
     "label": "Medium",
@@ -20354,7 +20368,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -20424,7 +20438,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -20447,7 +20461,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -20470,7 +20484,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 43,
     "label": "Low",
@@ -20494,7 +20508,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 69,
     "label": "Medium",
@@ -20519,7 +20533,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 43,
     "label": "Low",
@@ -21384,7 +21398,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -21408,7 +21422,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -21431,7 +21445,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -21528,7 +21542,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -22027,7 +22041,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -22051,7 +22065,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -22098,7 +22112,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -22192,7 +22206,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -22865,11 +22879,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1788943302,
+   "posted": 1788943718,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -22890,7 +22904,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 57,
     "label": "Medium",
@@ -22915,7 +22929,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -22985,7 +22999,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 43,
     "label": "Low",
@@ -23375,7 +23389,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -23398,7 +23412,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -23444,7 +23458,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -23467,7 +23481,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -23588,7 +23602,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -23634,7 +23648,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -23658,7 +23672,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 77,
     "label": "High",
@@ -23684,7 +23698,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -23781,7 +23795,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -23806,7 +23820,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -23831,7 +23845,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -23856,7 +23870,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 71,
     "label": "High",
@@ -23881,7 +23895,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -23905,7 +23919,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -23928,7 +23942,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -24389,7 +24403,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -24505,7 +24519,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 25,
     "label": "Low",
@@ -24528,7 +24542,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -25787,7 +25801,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -25806,7 +25820,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788770502,
+   "posted": 1788770918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -26322,7 +26336,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -26346,7 +26360,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -26365,7 +26379,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788597702,
+   "posted": 1788598118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -26388,7 +26402,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788597702,
+   "posted": 1788598118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -26411,7 +26425,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788597702,
+   "posted": 1788598118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -26432,7 +26446,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788597702,
+   "posted": 1788598118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -26453,7 +26467,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788597702,
+   "posted": 1788598118,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -26611,7 +26625,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -26634,7 +26648,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -26680,7 +26694,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -26703,7 +26717,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -26750,7 +26764,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 65,
     "label": "Medium",
@@ -26800,7 +26814,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 57,
     "label": "Medium",
@@ -26825,7 +26839,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -26944,7 +26958,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -27314,11 +27328,11 @@
    "locations": [
     "3 Locations"
    ],
-   "posted": 1788511302,
+   "posted": 1788511718,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -27335,7 +27349,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788511302,
+   "posted": 1788511718,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -27360,7 +27374,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -27629,7 +27643,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 61,
     "label": "Medium",
@@ -28134,7 +28148,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -28181,7 +28195,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -28361,7 +28375,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -28527,7 +28541,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -28550,7 +28564,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -28573,7 +28587,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -28698,7 +28712,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 71,
     "label": "High",
@@ -28723,7 +28737,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -28769,7 +28783,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -28792,7 +28806,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -30034,7 +30048,7 @@
    "locations": [
     "Taiwan, Taipei"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30057,7 +30071,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30080,7 +30094,7 @@
    "locations": [
     "Taiwan, Hsinchu"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30101,7 +30115,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30122,11 +30136,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -30143,7 +30157,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30166,7 +30180,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30187,7 +30201,7 @@
    "locations": [
     "Taiwan, Taipei"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30208,11 +30222,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -30231,11 +30245,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -30252,7 +30266,7 @@
    "locations": [
     "China, Shanghai"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
@@ -30275,11 +30289,11 @@
    "locations": [
     "2 Locations"
    ],
-   "posted": 1788338502,
+   "posted": 1788338918,
    "source": "Workday (NVIDIA)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -30300,7 +30314,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -30392,7 +30406,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -30729,7 +30743,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -31168,7 +31182,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 57,
     "label": "Medium",
@@ -31215,7 +31229,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -31261,7 +31275,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 57,
     "label": "Medium",
@@ -31934,7 +31948,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 0,
     "label": "Low",
@@ -31958,7 +31972,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -31984,7 +31998,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -32007,7 +32021,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -32528,7 +32542,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -32652,7 +32666,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 57,
     "label": "Medium",
@@ -32676,7 +32690,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 61,
     "label": "Medium",
@@ -32779,7 +32793,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -32974,7 +32988,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 9,
     "label": "Low",
@@ -33021,7 +33035,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -33067,7 +33081,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -33093,7 +33107,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -33116,7 +33130,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -33140,7 +33154,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -33165,7 +33179,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -33380,7 +33394,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -34944,7 +34958,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -34968,7 +34982,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 43,
     "label": "Low",
@@ -34992,7 +35006,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -35016,7 +35030,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 43,
     "label": "Low",
@@ -35305,7 +35319,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -35351,7 +35365,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -35493,7 +35507,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -35730,7 +35744,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -37239,7 +37253,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -37288,7 +37302,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -38070,7 +38084,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -38093,7 +38107,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -38211,7 +38225,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -38235,7 +38249,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -38283,7 +38297,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -38360,7 +38374,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -38384,7 +38398,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -38580,7 +38594,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -38649,7 +38663,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -38672,7 +38686,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -38718,7 +38732,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -39256,7 +39270,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 37,
     "label": "Low",
@@ -39281,7 +39295,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -40502,7 +40516,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 61,
     "label": "Medium",
@@ -40526,7 +40540,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -40689,7 +40703,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 61,
     "label": "Medium",
@@ -40909,7 +40923,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -40940,7 +40954,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 81,
     "label": "High",
@@ -41169,7 +41183,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -41238,7 +41252,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 9,
     "label": "Low",
@@ -41366,7 +41380,7 @@
     "vanshb03"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -41444,7 +41458,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -41468,7 +41482,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -41514,7 +41528,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 9,
     "label": "Low",
@@ -41540,7 +41554,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 19,
     "label": "Low",
@@ -41591,7 +41605,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -41668,7 +41682,7 @@
     "vanshb03"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -41861,7 +41875,7 @@
     "vanshb03"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 57,
     "label": "Medium",
@@ -41909,7 +41923,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -42265,7 +42279,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -42434,7 +42448,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -42745,7 +42759,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -42768,7 +42782,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -42791,7 +42805,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -42814,7 +42828,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 43,
     "label": "Low",
@@ -42838,7 +42852,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -42861,7 +42875,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -42984,7 +42998,7 @@
     "vanshb03"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -43008,7 +43022,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 49,
     "label": "Low",
@@ -43207,7 +43221,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -43230,7 +43244,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -43470,7 +43484,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -44315,7 +44329,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -44685,7 +44699,7 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 25,
     "label": "Low",
@@ -44754,7 +44768,7 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -45652,7 +45666,7 @@
    "source": "Greenhouse (SpaceX)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 47,
     "label": "Low",
@@ -45685,7 +45699,7 @@
    "source": "Greenhouse (SpaceX)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 38,
     "label": "Low",
@@ -45715,7 +45729,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 75,
     "label": "High",
@@ -45755,7 +45769,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 63,
     "label": "Medium",
@@ -45791,7 +45805,7 @@
    "source": "Greenhouse (SpaceX)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 48,
     "label": "Low",
@@ -45823,7 +45837,7 @@
    "source": "Greenhouse (SpaceX)",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 48,
     "label": "Low",
@@ -46126,7 +46140,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -46177,7 +46191,7 @@
     "vanshb03"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -47299,7 +47313,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -47322,7 +47336,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -47442,7 +47456,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -47593,7 +47607,7 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -47680,7 +47694,7 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -47778,7 +47792,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -47802,7 +47816,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -48012,7 +48026,7 @@
     "vanshb03"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -48127,7 +48141,7 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 5,
     "label": "Low",
@@ -48223,7 +48237,7 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -48766,7 +48780,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -48790,7 +48804,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -48860,7 +48874,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 43,
     "label": "Low",
@@ -48884,7 +48898,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -48907,7 +48921,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -48930,7 +48944,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 39,
     "label": "Low",
@@ -48953,7 +48967,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49035,7 +49049,7 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49104,7 +49118,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 43,
     "label": "Low",
@@ -49253,7 +49267,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -49278,7 +49292,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -49302,7 +49316,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -49352,7 +49366,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49375,7 +49389,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49398,7 +49412,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49421,7 +49435,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -49448,7 +49462,7 @@
     "vanshb03"
    ],
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -49472,7 +49486,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49495,7 +49509,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49730,7 +49744,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 29,
     "label": "Low",
@@ -49826,7 +49840,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -49850,7 +49864,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": true,
+   "us": false,
    "match": {
     "score": 45,
     "label": "Low",
@@ -49987,7 +50001,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 45,
     "label": "Low",
@@ -50086,7 +50100,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -50459,7 +50473,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -50483,7 +50497,7 @@
    "source": "SimplifyJobs",
    "category": "Quant",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 29,
     "label": "Low",
@@ -51299,7 +51313,7 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 53,
     "label": "Medium",
@@ -51662,7 +51676,7 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -52013,7 +52027,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
@@ -52063,7 +52077,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "first_seen": 1790926137,
-   "us": false,
+   "us": true,
    "match": {
     "score": 49,
     "label": "Low",
