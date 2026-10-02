@@ -21,6 +21,7 @@ Every 6 hours, `.github/workflows/daily-feed.yml`:
 | `feed/config/sources.json` | Data sources |
 | `feed/config/watchlist.json` | Pinned programs and the regexes that detect when they open |
 | `feed/config/profile.json` | Skill keywords and weights for the match score |
+| `feed/config/corrections.json` | Live-site checks that override the aggregators (postings dropped by URL) |
 | `feed/scripts/build_feed.py` | The pipeline (Python standard library only) |
 | `feed/state/` | First-seen dates, watchlist state, latest run summary |
 | `docs/` | The Pages site |
