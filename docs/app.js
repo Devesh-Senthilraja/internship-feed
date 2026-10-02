@@ -135,7 +135,7 @@
       <div class="foot">
         <span title="First seen by this feed: ${new Date(p.first_seen * 1000).toLocaleDateString()}">Posted ${ago(p.posted || p.first_seen)}</span>
         <span class="actions">
-          ${state.trackerUrl ? `<a href="${esc(trackerLink(p))}" data-tracker target="_blank" rel="noopener" title="Add this posting to My Applications">+ Tracker</a>` : ""}
+          ${state.trackerUrl ? `<a href="${esc(trackerLink(p))}" data-tracker target="_blank" rel="noopener" title="Copy this posting, then paste it into My Applications">Copy to tracker</a>` : ""}
           <a href="${esc(p.url)}" target="_blank" rel="noopener">Apply →</a>
         </span>
       </div>
@@ -184,11 +184,15 @@
     if (!a) return;
     // Belt and braces: the link also goes to the clipboard, so pasting it into the tracker works
     // even if the viewer drops the #add- anchor on the way.
-    navigator.clipboard?.writeText(a.href).then(() => toast("Opening the tracker. If it doesn’t add the posting by itself, paste there (Ctrl+V)."), () => {});
+    // The claude.ai viewer drops the #add- anchor, so the clipboard is what actually carries the posting.
+    const copied = navigator.clipboard ? navigator.clipboard.writeText(a.href) : Promise.reject();
+    copied.then(
+      () => toast("Copied. In My Applications, click “Paste from feed” and press Ctrl+V."),
+      () => toast("Couldn’t copy automatically. Right-click “Copy to tracker”, choose Copy link, then paste it into “Paste from feed”."));
   });
   function toast(msg) {
     const t = $("toast"); t.textContent = msg; t.hidden = false;
-    clearTimeout(toast.timer); toast.timer = setTimeout(() => { t.hidden = true; }, 6000);
+    clearTimeout(toast.timer); toast.timer = setTimeout(() => { t.hidden = true; }, 10000);
   }
   $("srcBtn").addEventListener("click", () => $("sources").showModal());
   $("srcClose").addEventListener("click", () => $("sources").close());
