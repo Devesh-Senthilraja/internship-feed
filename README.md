@@ -7,7 +7,7 @@ Everything here is public. Personal files live in a separate private repo.
 
 ## How it works
 
-Once a day, `.github/workflows/daily-feed.yml`:
+Every 6 hours, `.github/workflows/daily-feed.yml`:
 
 1. pulls the SimplifyJobs and vanshb03 Summer 2027 trackers plus company boards
    (Greenhouse: SpaceX, Anduril, Relativity; Workday: NVIDIA, RTX),
@@ -24,6 +24,12 @@ Once a day, `.github/workflows/daily-feed.yml`:
 | `feed/scripts/build_feed.py` | The pipeline (Python standard library only) |
 | `feed/state/` | First-seen dates, watchlist state, latest run summary |
 | `docs/` | The Pages site |
+
+## On the page
+
+- **☆ Pin** keeps a posting at the top of the page. Pins are saved in your browser only.
+- **+ Tracker** opens the private My Applications tracker with the posting ready to add, on any device.
+- **N sources** in the header lists every source with a link and its posting count. Each tile's "via" line names the sources that listed it.
 
 ## Run locally
 
@@ -44,5 +50,5 @@ python -m http.server -d docs 8000   # http://localhost:8000
 ## Setup
 
 - **Pages:** Settings → Pages → Deploy from a branch → `main`, folder `/docs`.
-- **Daily job:** runs from `main` at 13:17 UTC. Run it by hand from Actions → *Daily internship feed* → Run workflow.
+- **Scheduled job:** runs every 6 hours from `main` (01:17, 07:17, 13:17 and 19:17 UTC). Run it by hand from Actions → *Daily internship feed* → Run workflow.
 - **Notifications:** turn on GitHub notifications for this repo's issues.

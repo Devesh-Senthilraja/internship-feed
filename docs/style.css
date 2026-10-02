@@ -100,3 +100,27 @@ h2 { font-size: 1.1rem; margin: 28px 0 4px; }
 
 .more { display: block; margin: 18px auto; font: inherit; padding: 8px 18px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--text); cursor: pointer; }
 .notes { margin: 36px 0 48px; border-top: 1px solid var(--line); padding-top: 14px; color: var(--muted); font-size: 0.85rem; }
+
+.linkbtn { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+.linkbtn:focus-visible, .pin:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.co-right { display: flex; align-items: center; gap: 8px; }
+.pin { font: inherit; font-size: 0.78rem; font-weight: 600; color: var(--muted); background: none; border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; cursor: pointer; white-space: nowrap; }
+.pin[aria-pressed="true"] { color: var(--med); background: var(--med-bg); border-color: transparent; }
+.card.pinned { border-color: var(--med); }
+.gone { font-size: 0.72rem; color: var(--warn); font-weight: 600; }
+.via { font-size: 0.76rem; color: var(--muted); overflow-wrap: anywhere; }
+.card .foot .actions { display: flex; gap: 12px; }
+dialog#sources { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: var(--text); padding: 0; width: min(560px, calc(100vw - 32px)); }
+dialog#sources::backdrop { background: rgb(0 0 0 / 0.45); }
+.dlg { padding: 18px; display: flex; flex-direction: column; gap: 10px; }
+.dlg-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.dlg h2 { margin: 0; font-size: 1.1rem; }
+.srcs { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.srcs li { padding: 10px 0; border-top: 1px solid var(--line); }
+.srcs li:first-child { border-top: 0; }
+.src-head { display: flex; justify-content: space-between; gap: 12px; }
+.src-name { font-weight: 600; overflow-wrap: anywhere; }
+.src-count { font-variant-numeric: tabular-nums; color: var(--muted); white-space: nowrap; }
+.src-count.bad { color: var(--warn); font-weight: 600; }
+.src-kind { font-size: 0.82rem; color: var(--muted); }
+code { font-size: 0.85em; }
