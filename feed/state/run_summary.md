@@ -1,16 +1,13 @@
-# Internship feed run 2026-10-19 22:55 UTC
+# Internship feed run 2026-10-20 06:06 UTC
 
-## 41 new postings
+## 17 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| High (71) | Anduril | [2027 Field Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | Costa Mesa, California, United States; Quincy, Massachusetts, United States |
-| Medium (65) | Anduril | [2027 Guidance, Navigation, & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) | Costa Mesa, California, United States |
-| Medium (64) | Anduril | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Costa Mesa, California, United States |
-| Medium (61) | Badger Meter | [Systems Integration Engineer Intern](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Systems-Integration---Engineering-Intern_4641) | Milwaukee, WI |
-| Medium (53) | The Allen Institute for AI | [Research Intern - Robotics](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | Seattle, WA |
-| Medium (53) | Symbotic | [Robot Manipulation Intern](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278) | Wilmington, MA |
-| Medium (53) | GlobalFoundries | [AI/ML Systems Engineering Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051) | Richardson, TX |
-| Medium (53) | Anduril | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States |
+| High (75) | Ursa Major | [Avionics Electrical Engineer Intern](https://ursamajor.com/careers/?gh_jid=4745125005) | Berthoud, CO |
+| Medium (65) | Inversion Space | [Vehicle Software Engineer Intern](https://job-boards.greenhouse.io/inversionspace/jobs/4745083005) | Playa Vista, LA |
+| Medium (65) | Trimble | [Hardware/Software Testing Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1) | Dayton, OH, Portsmouth, NH |
+| Medium (61) | RTX | [Electrical Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761) | Windsor Locks, CT |
+| Medium (53) | Inversion Space | [AI & Internal Tools Software Engineer Intern](https://job-boards.greenhouse.io/inversionspace/jobs/4745076005) | Playa Vista, LA |
 
 _Match is a keyword heuristic on the title (and the description when the company board provides one), not a prediction._
