@@ -1,12 +1,10 @@
-# Internship feed run 2026-10-21 18:06 UTC
+# Internship feed run 2026-10-21 22:25 UTC
 
-## 20 new postings
+## 25 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (61) | Marvell | [Silicon Validation Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) | Santa Clara, CA |
-| Medium (53) | Anduril | [2027 Product Sourcing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States |
-| Medium (51) | RTX (Collins / Raytheon / Pratt) | [Manufacturing Electrical Engineer Co-op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880) | Melbourne, FL |
-| Medium (51) | RTX (Collins / Raytheon / Pratt) | [Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878) | Melbourne, FL |
+| Medium (53) | Hewlett Packard Enterprise | [Embedded Software Engineer Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088) | Roseville, CA |
+| Medium (53) | Smith+Nephew | [Embedded Software Engineering Intern](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | Andover, MA |
 
 _Match is a keyword heuristic on the title (and the description when the company board provides one), not a prediction._
