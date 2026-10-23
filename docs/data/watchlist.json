@@ -1,5 +1,5 @@
 {
- "generated_at": 1792759200,
+ "generated_at": 1792778033,
  "items": [
   {
    "id": "google-step",
@@ -11,7 +11,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "microsoft-explore",
@@ -23,7 +23,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "amazon-underclass",
@@ -35,7 +35,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "nvidia-2027",
@@ -54,7 +54,7 @@
     "3bf97c48ffb6",
     "6843eeecbc80"
    ],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "ww-grainger-gtg",
@@ -67,9 +67,10 @@
    "status": "POSTED",
    "opened_at": 1790926137,
    "matches": [
-    "855b57ebdcaa"
+    "855b57ebdcaa",
+    "8e13ab668bd8"
    ],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "linkedin-first-play",
@@ -81,7 +82,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "nvidia-ignite",
@@ -93,7 +94,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "hrt-inside",
@@ -105,7 +106,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "uber-ucp",
@@ -117,7 +118,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "two-sigma-first-year",
@@ -129,7 +130,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1792759200
+   "last_checked": 1792778033
   },
   {
    "id": "rivian-2027",
@@ -139,10 +140,16 @@
    "location_regex": "(, [A-Z]{2}$|United States|USA|Remote)",
    "note": "Grad window Dec 2027 to June 2029 fits May 2029. As of Oct 2 (checked live), Rivian lists only Spring 2027 internships; watching for Summer.",
    "link": "https://careers.rivian.com/",
-   "status": "NOT_YET",
-   "opened_at": null,
-   "matches": [],
-   "last_checked": 1792759200
+   "status": "OPEN",
+   "opened_at": 1792778033,
+   "matches": [
+    "2f8541f28d31",
+    "41d4bceecad1",
+    "42005ca9fc03",
+    "5aced960c268",
+    "d2a0cce778f3"
+   ],
+   "last_checked": 1792778033
   }
  ]
 }
