@@ -1,5 +1,5 @@
 {
- "generated_at": 1793196303,
+ "generated_at": 1793229428,
  "items": [
   {
    "id": "google-step",
@@ -11,7 +11,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "microsoft-explore",
@@ -23,7 +23,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "amazon-underclass",
@@ -35,7 +35,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "nvidia-2027",
@@ -55,7 +55,7 @@
     "6843eeecbc80",
     "585952fd5a61"
    ],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "ww-grainger-gtg",
@@ -70,7 +70,7 @@
    "matches": [
     "855b57ebdcaa"
    ],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "linkedin-first-play",
@@ -79,10 +79,12 @@
    "title_regex": "first ?play",
    "note": "Explicit underclassman program. Not open yet as of Sep 30.",
    "link": "https://careers.linkedin.com/students",
-   "status": "NOT_YET",
-   "opened_at": null,
-   "matches": [],
-   "last_checked": 1793196303
+   "status": "OPEN",
+   "opened_at": 1793229428,
+   "matches": [
+    "506b80cc54ea"
+   ],
+   "last_checked": 1793229428
   },
   {
    "id": "nvidia-ignite",
@@ -94,7 +96,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "hrt-inside",
@@ -106,7 +108,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "uber-ucp",
@@ -118,7 +120,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "two-sigma-first-year",
@@ -130,7 +132,7 @@
    "status": "NOT_YET",
    "opened_at": null,
    "matches": [],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   },
   {
    "id": "rivian-2027",
@@ -143,10 +145,11 @@
    "status": "OPEN",
    "opened_at": 1792778033,
    "matches": [
+    "971cf8bdee36",
     "e6c8ffe7a425",
     "a88167784aa9"
    ],
-   "last_checked": 1793196303
+   "last_checked": 1793229428
   }
  ]
 }
