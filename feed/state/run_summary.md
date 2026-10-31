@@ -1,17 +1,12 @@
-# Internship feed run 2026-10-31 07:03 UTC
+# Internship feed run 2026-10-31 13:42 UTC
 
-## 55 new postings
+## 50 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (61) | NVIDIA | [Hardware ASIC Design Intern - Hardware](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | Santa Clara, CA |
-| Medium (61) | Schneider Electric | [Electronics Hardware Engineer Co-op](https://se.jibeapply.com/jobs/136319?icims=1) | Raleigh, NC, Cedar Rapids, IA |
-| Medium (53) | NVIDIA | [Developer and Performance Technology Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | Santa Clara, CA |
-| Medium (53) | OTTO Engineering | [Embedded Software Intern, Communications](https://go.vansh.nyc/122) | Carpentersville, IL |
-
-## Sources that failed
-
-- Workday (NVIDIA): Expecting value: line 1 column 1 (char 0)
-- Workday (RTX (Collins / Raytheon / Pratt)): Expecting value: line 1 column 1 (char 0)
+| Medium (63) | NVIDIA | [Autonomous Vehicles and Robotics Intern](https://go.vansh.nyc/12h) | Santa Clara, CA |
+| Medium (61) | Peraton | [Electrical Engineer Intern](https://peraton.jibeapply.com/jobs/172055?icims=1) | Topeka, KS |
+| Medium (53) | Intercontinental Exchange | [Integration Intern](https://ice.jibeapply.com/jobs/14071?icims=1) | Jacksonville, FL |
+| Medium (53) | Intercontinental Exchange | [Software Engineer Intern - Java](https://ice.jibeapply.com/jobs/14078?icims=1) | Jacksonville, FL |
 
 _Match is a keyword heuristic on the title (and the description when the company board provides one), not a prediction._
