@@ -1,9 +1,5 @@
-# Internship feed run 2026-11-01 07:37 UTC
+# Internship feed run 2026-11-01 18:26 UTC
 
-## 42 new postings
-
-| Match | Company | Role | Location |
-|---|---|---|---|
-| Medium (53) | Relling | [Robotics Software Engineering Intern](https://go.vansh.nyc/13m) | San Francisco, CA |
+## 66 new postings
 
 _Match is a keyword heuristic on the title (and the description when the company board provides one), not a prediction._
