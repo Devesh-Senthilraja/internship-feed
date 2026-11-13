@@ -1,5 +1,5 @@
 {
- "generated_at": 1794516810,
+ "generated_at": 1794557143,
  "term": "Summer 2027",
  "sources": [
   {
@@ -7,14 +7,14 @@
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
    "ok": true,
-   "count": 2436
+   "count": 2444
   },
   {
    "name": "vanshb03",
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/vanshb03/Summer2027-Internships",
    "ok": true,
-   "count": 1979
+   "count": 2000
   },
   {
    "name": "Greenhouse (SpaceX)",
@@ -49,7 +49,7 @@
    "kind": "Company board (Workday)",
    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
    "ok": true,
-   "count": 46
+   "count": 40
   },
   {
    "name": "Live-site corrections",
@@ -59,171 +59,536 @@
    "count": -1
   }
  ],
- "count": 3405,
+ "count": 3420,
  "postings": [
   {
-   "id": "d8045cfa8bd5",
-   "company": "NVIDIA",
-   "title": "Math Device Extension Libraries Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Math-Device-Extension-Libraries-Intern---2027_JR2028208",
+   "id": "84e4a74c1a1b",
+   "company": "TikTok",
+   "title": "Machine Learning Scientist Intern - Local Services",
+   "url": "https://lifeattiktok.com/search/7703925583541979445",
    "locations": [
-    "Switzerland, Zurich"
+    "San Jose, CA"
    ],
-   "posted": 1794516810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "a75e72a90d50",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Intern: Quality Core Lab (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899",
-   "locations": [
-    "East Hartford-Etc, CT"
-   ],
-   "posted": 1794516810,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1791958346,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "76205310ec8a",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Operations Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Intern--Summer-2027-_01888583",
-   "locations": [
-    "Andover, MA"
-   ],
-   "posted": 1794516810,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "fd4a06d3a2ee",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Cryogenic Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-811A--1151-E-Hermans-Rd--BLDG-811A-External-Site/Cryogenic-Engineering-Intern--Summer-2027-_01888586",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted": 1794516810,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "a2b50b78750a",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Systems Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01888963",
-   "locations": [
-    "Marlborough, MA"
-   ],
-   "posted": 1794516810,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "fee0c9a72983",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Manufacturing-Engineering-Intern--Summer-2027-_01888337",
-   "locations": [
-    "Marlborough, MA"
-   ],
-   "posted": 1794516810,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794516810,
+   "posted": 1794555446,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
    "us": true,
    "match": {
     "score": 43,
     "label": "Low",
     "reasons": [
-     "title: manufacturing"
+     "AI/ML/Data category +4",
+     "title: machine learning"
     ]
    },
    "flags": [],
    "has_description": false
   },
   {
-   "id": "93446578313d",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01888581",
+   "id": "38bef194d80b",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/289796",
    "locations": [
-    "US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site)"
+    "Palo Alto, CA"
    ],
-   "posted": 1794516810,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794516810,
+   "posted": 1794554109,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1794557143,
    "us": true,
    "match": {
-    "score": 43,
-    "label": "Low",
+    "score": 57,
+    "label": "Medium",
     "reasons": [
-     "title: manufacturing"
+     "Hardware category +18",
+     "title: software"
     ]
    },
    "flags": [],
    "has_description": false
   },
   {
-   "id": "4a68b2bb7977",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Supplier Account Manager Co-Op (Spring/Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B2--1-Hamilton-Rd--BLDG-2/Supplier-Account-Manager-Co-Op--Spring-Summer-2027-_01880833",
+   "id": "2ad199c44bb7",
+   "company": "Samsung Semiconductor",
+   "title": "Compiler Engineer Intern",
+   "url": "https://go.vansh.nyc/1yw",
    "locations": [
-    "Windsor Locks, CT"
+    "San Jose, CA"
    ],
-   "posted": 1794516810,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "posted": 1794551481,
+   "source": "vanshb03",
    "category": "",
-   "first_seen": 1794516810,
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "93b814fa053e",
+   "company": "Jobs at UHS",
+   "title": "Information Security Analyst Intern",
+   "url": "https://go.vansh.nyc/1yv",
+   "locations": [
+    "Tredyffrin, PA"
+   ],
+   "posted": 1794550000,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: security"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "fce6f1936bc0",
+   "company": "Bask",
+   "title": "Machine Learning Engineering Intern",
+   "url": "https://go.vansh.nyc/1ys",
+   "locations": [
+    "United States"
+   ],
+   "posted": 1794542931,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: machine learning"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "895ffe085cdf",
+   "company": "Bask",
+   "title": "AI Engineering Intern",
+   "url": "https://go.vansh.nyc/1yt",
+   "locations": [
+    "United States"
+   ],
+   "posted": 1794542931,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "12c64d534027",
+   "company": "Zoox",
+   "title": "Data Scientist Intern",
+   "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "posted": 1794536650,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "c608e537c7a6",
+   "company": "Origin Bank",
+   "title": "Cybersecurity Intern",
+   "url": "https://go.vansh.nyc/1yr",
+   "locations": [
+    "Ruston, LA"
+   ],
+   "posted": 1794536085,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "84811b9d6817",
+   "company": "E2 Consulting Engineers",
+   "title": "Data Analyst Intern",
+   "url": "https://go.vansh.nyc/1yp",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "posted": 1794531981,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "483b6faedf11",
+   "company": "Lightmatter",
+   "title": "Quality & Reliability Intern",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5474812008",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted": 1794531669,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 53,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "cb95a50316c8",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+   "url": "https://go.vansh.nyc/1ym",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted": 1794530238,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: machine learning"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "3d601d238e7b",
+   "company": "RTX",
+   "title": "Software Engineering Intern",
+   "url": "https://go.vansh.nyc/1yk",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "posted": 1794529372,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "3db9b63dc1e9",
+   "company": "Aurora Innovation",
+   "title": "Software Engineer Intern - Vehicle Platforms",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted": 1794528000,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 57,
+    "label": "Medium",
+    "reasons": [
+     "Software category +10",
+     "title: vehicle",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "89e73413d223",
+   "company": "The Toro Company",
+   "title": "CX and Customer Lifetime Value Intern - Operations Analyst",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819",
+   "locations": [
+    "Bloomington, MN"
+   ],
+   "posted": 1794528000,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0003d2eccfa2",
+   "company": "Cintas",
+   "title": "IT OT Software Engineer Intern",
+   "url": "https://go.vansh.nyc/1yj",
+   "locations": [
+    "Mason, OH"
+   ],
+   "posted": 1794526964,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "76e7033ece35",
+   "company": "General Dynamics Information Technology",
+   "title": "JMSC-P Boundary Enclave Administrator Intern",
+   "url": "https://go.vansh.nyc/1y7",
+   "locations": [
+    "Schofield, HI"
+   ],
+   "posted": 1794526868,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "feeb2f71ab68",
+   "company": "Bask Health",
+   "title": "Machine Learning Engineer Intern",
+   "url": "https://go.vansh.nyc/1yh",
+   "locations": [
+    "Remote",
+    "United States"
+   ],
+   "posted": 1794526688,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: machine learning"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "448a441bedad",
+   "company": "Bask Health",
+   "title": "AI Engineering Intern",
+   "url": "https://go.vansh.nyc/1yi",
+   "locations": [
+    "Remote",
+    "United States"
+   ],
+   "posted": 1794526688,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "7bbfbae044db",
+   "company": "Shield AI",
+   "title": "Hardware Test Engineer Co-op",
+   "url": "https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "posted": 1794525337,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 69,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: hardware",
+     "title: test engineer"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "369c872edfcd",
+   "company": "Muon Space",
+   "title": "Software Engineer Intern - Information Systems",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted": 1794524817,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 49,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "85117f7c67d1",
+   "company": "Octant Bio",
+   "title": "Software Engineering Intern",
+   "url": "https://www.octant.bio/jobs?gh_jid=6260895004",
+   "locations": [
+    "Emeryville, CA"
+   ],
+   "posted": 1794524087,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 49,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "23e1012f3a65",
+   "company": "VITAL LYFE",
+   "title": "Software Engineering Intern",
+   "url": "https://go.vansh.nyc/1xy",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "posted": 1794521108,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "9f5a94c0dcaa",
+   "company": "Clyde Companies",
+   "title": "Application Development Intern",
+   "url": "https://go.vansh.nyc/1xW",
+   "locations": [
+    "Orem, UT"
+   ],
+   "posted": 1794521108,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
    "us": true,
    "match": {
     "score": 35,
@@ -244,6 +609,9 @@
    "posted": 1794514007,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -255,22 +623,28 @@
    "has_description": false
   },
   {
-   "id": "d35ffc4cef11",
+   "id": "c57905ab4398",
    "company": "Stratolaunch",
    "title": "Business Intelligence & Systems Analyst Intern",
-   "url": "https://go.vansh.nyc/1xv",
+   "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
    "locations": [
     "Mojave, CA"
    ],
    "posted": 1794511116,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03",
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
    "us": true,
    "match": {
-    "score": 35,
+    "score": 39,
     "label": "Low",
-    "reasons": []
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
    },
    "flags": [],
    "has_description": false
@@ -286,6 +660,9 @@
    "posted": 1794511002,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -307,6 +684,9 @@
    "posted": 1794511002,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -341,23 +721,25 @@
    "has_description": false
   },
   {
-   "id": "7b4be9c88225",
-   "company": "Autodesk",
-   "title": "Software Developer Intern",
-   "url": "https://go.vansh.nyc/1wN",
+   "id": "226bb136ad31",
+   "company": "StackAV",
+   "title": "Research Intern - Autonomy",
+   "url": "https://job-boards.greenhouse.io/stackav/jobs/5287594007",
    "locations": [
-    "Montreal, Canada"
+    "Remote in USA",
+    "Pittsburgh, PA"
    ],
-   "posted": 1794508606,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": false,
+   "posted": 1794507743,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
    "match": {
-    "score": 39,
-    "label": "Low",
+    "score": 53,
+    "label": "Medium",
     "reasons": [
-     "title: software"
+     "AI/ML/Data category +4",
+     "title: autonomy"
     ]
    },
    "flags": [],
@@ -372,27 +754,6 @@
     "Grand Rapids, MI"
    ],
    "posted": 1794507678,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "eeb7ee2261dc",
-   "company": "T-Mobile",
-   "title": "Data Product Intern",
-   "url": "https://go.vansh.nyc/1wM",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "posted": 1794506538,
    "source": "vanshb03",
    "category": "",
    "first_seen": 1794516810,
@@ -424,53 +785,6 @@
     "reasons": [
      "title: onshape"
     ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "bf6427a948d3",
-   "company": "Cigna",
-   "title": "Software Engineering Intern",
-   "url": "https://go.vansh.nyc/1wH",
-   "locations": [
-    "St. Louis, MO",
-    "Austin, TX",
-    "Morris Plains, NJ",
-    "Bloomfield, CT"
-   ],
-   "posted": 1794501451,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "61f9fd32985c",
-   "company": "Cardinal Health",
-   "title": "Technology Intern",
-   "url": "https://go.vansh.nyc/1wG",
-   "locations": [
-    "Dublin, OH"
-   ],
-   "posted": 1794500522,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -537,6 +851,178 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1794471867,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "d8045cfa8bd5",
+   "company": "NVIDIA",
+   "title": "Math Device Extension Libraries Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Math-Device-Extension-Libraries-Intern---2027_JR2028208",
+   "locations": [
+    "Switzerland, Zurich"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1794516810,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "a75e72a90d50",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Intern: Quality Core Lab (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899",
+   "locations": [
+    "East Hartford-Etc, CT"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1791958346,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "76205310ec8a",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Operations Engineering Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Intern--Summer-2027-_01888583",
+   "locations": [
+    "Andover, MA"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "fd4a06d3a2ee",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Cryogenic Engineering Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-811A--1151-E-Hermans-Rd--BLDG-811A-External-Site/Cryogenic-Engineering-Intern--Summer-2027-_01888586",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "a2b50b78750a",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Systems Engineering Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01888963",
+   "locations": [
+    "Marlborough, MA"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "fee0c9a72983",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Engineering Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Manufacturing-Engineering-Intern--Summer-2027-_01888337",
+   "locations": [
+    "Marlborough, MA"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "93446578313d",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Engineering Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01888581",
+   "locations": [
+    "US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site)"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "4a68b2bb7977",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Supplier Account Manager Co-Op (Spring/Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B2--1-Hamilton-Rd--BLDG-2/Supplier-Account-Manager-Co-Op--Spring-Summer-2027-_01880833",
+   "locations": [
+    "Windsor Locks, CT"
+   ],
+   "posted": 1794470743,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794516810,
    "us": true,
    "match": {
     "score": 35,
@@ -879,6 +1365,518 @@
    "has_description": false
   },
   {
+   "id": "60a33a9d31ce",
+   "company": "Capital Power",
+   "title": "Student Intern - Data Science",
+   "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
+   "locations": [
+    "Edmonton, AB, Canada"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "739f674a92b0",
+   "company": "Capital Power",
+   "title": "Summer Student Intern - Data Analytics",
+   "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222",
+   "locations": [
+    "Calgary, AB, Canada"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "c6c1671eb245",
+   "company": "T-Mobile",
+   "title": "Data Product Intern",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "2884c1fb4621",
+   "company": "CACI",
+   "title": "Embedded Software Development Intern",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
+   "locations": [
+    "Westminster, CO"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 71,
+    "label": "High",
+    "reasons": [
+     "Hardware category +18",
+     "title: embedded",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0bf3ca2c8f11",
+   "company": "CrowdStrike",
+   "title": "Intelligence Launch Intern",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500",
+   "locations": [
+    "London, UK",
+    "Reading, UK"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 45,
+    "label": "Low",
+    "reasons": [
+     "Software category +10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "4c7e7887d373",
+   "company": "Eversource Energy",
+   "title": "GIS Intern",
+   "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519",
+   "locations": [
+    "Dorchester, Boston, MA"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "aeb44f73ba7c",
+   "company": "Stanley Black & Decker",
+   "title": "Data Analyst Intern",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481",
+   "locations": [
+    "Towson, MD"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "11d310068303",
+   "company": "Entegris",
+   "title": "Product Management Intern",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Product",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 25,
+    "label": "Low",
+    "reasons": [
+     "Product category -10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "c4f426018094",
+   "company": "Environmental Defense Fund",
+   "title": "Consumer Energy Analytics Intern",
+   "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752",
+   "locations": [
+    "Remote in USA",
+    "St. Petersburg, FL"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "549b8a1d4d49",
+   "company": "Entegris",
+   "title": "Data Engineering Intern",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
+   "locations": [
+    "Aurora, IL"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "7e347feee9b0",
+   "company": "Cardinal Health",
+   "title": "Technology Intern",
+   "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1",
+   "locations": [
+    "Dublin, OH"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 45,
+    "label": "Low",
+    "reasons": [
+     "Software category +10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "9434218e607b",
+   "company": "CareSource",
+   "title": "Summer Internship Program – Provider Analytics AI Intern",
+   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481",
+   "locations": [
+    "Remote in USA"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "cb23f27a2d41",
+   "company": "CareSource",
+   "title": "Software Engineer Intern",
+   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
+   "locations": [
+    "Remote in USA"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 49,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "a039dbc47bf0",
+   "company": "CareSource",
+   "title": "Clinical Operations Business Analyst Intern",
+   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353",
+   "locations": [
+    "Remote in USA"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 9,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4",
+     "title: business analyst -30"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "659abd3123ec",
+   "company": "Vital Lyfe",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 49,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "376c2b892bd8",
+   "company": "General Dynamics Mission Systems",
+   "title": "Software/Systems Engineering Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Middletown, RI"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 49,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "f4195645a14d",
+   "company": "Analog Devices",
+   "title": "Product Engineer Intern - Product Development",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 53,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "656639d56eef",
+   "company": "CoStar Group",
+   "title": "Vision & Learning Intern",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "c6b8edb70ebd",
+   "company": "Shield AI",
+   "title": "Hardware Test Engineering Co-op",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "also_on": [
+    "SimplifyJobs"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 69,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: hardware",
+     "title: test engineering"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "91ae3f725b23",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "also_on": [
+    "Workday (RTX (Collins / Raytheon / Pratt))"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 57,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "21f945b43a10",
+   "company": "ASML",
+   "title": "Data Scientist Intern",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462",
+   "locations": [
+    "Wilton, CT"
+   ],
+   "posted": 1794441600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "61290f510849",
    "company": "Argonne National Laboratory",
    "title": "Business Information Systems Intern, Enterprise Software Solutions",
@@ -897,6 +1895,183 @@
     "reasons": [
      "title: software"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "e7a8bd80dff4",
+   "company": "Cboe Global Markets",
+   "title": "DevOps Intern",
+   "url": "https://go.vansh.nyc/1xz",
+   "locations": [
+    "Overland Park, KS"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "97929d898a12",
+   "company": "Kudu Dynamics",
+   "title": "Junior Software Engineer/Data Scientist Intern",
+   "url": "https://go.vansh.nyc/1xK",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "ff4cd2e96159",
+   "company": "Austal USA",
+   "title": "Information Technology Intern",
+   "url": "https://go.vansh.nyc/1y0",
+   "locations": [
+    "Mobile, AL"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "ca7a1601444e",
+   "company": "Capital Power",
+   "title": "Data Science Intern",
+   "url": "https://go.vansh.nyc/1y1",
+   "locations": [
+    "Edmonton, Canada"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "c9b056d65773",
+   "company": "Capital Power",
+   "title": "Data Analytics Intern",
+   "url": "https://go.vansh.nyc/1y2",
+   "locations": [
+    "Calgary, Canada"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "723bbb778f57",
+   "company": "Wolters Kluwer",
+   "title": "Product Software Engineer Intern",
+   "url": "https://go.vansh.nyc/1y3",
+   "locations": [
+    "Waltham, MA"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "ab0e45ea7793",
+   "company": "Atalanta",
+   "title": "Software Engineer Intern",
+   "url": "https://go.vansh.nyc/1ye",
+   "locations": [
+    "Washington, DC"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "45b64a4ff41a",
+   "company": "Atalanta",
+   "title": "Forward Deployed Engineer Intern",
+   "url": "https://go.vansh.nyc/1yf",
+   "locations": [
+    "Washington, DC"
+   ],
+   "posted": 1794441600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -980,6 +2155,9 @@
    "posted": 1794438567,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -1100,6 +2278,9 @@
    "posted": 1794438238,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -1122,6 +2303,9 @@
    "posted": 1794438232,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -1143,6 +2327,9 @@
    "posted": 1794438232,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -1164,111 +2351,9 @@
    "posted": 1794438153,
    "source": "vanshb03",
    "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "8443fc9b5cb0",
-   "company": "Medpace",
-   "title": "Clinical Informatics Co-op",
-   "url": "https://go.vansh.nyc/1xj",
-   "locations": [
-    "Cincinnati, OH"
+   "also_on": [
+    "vanshb03"
    ],
-   "posted": 1794438149,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "0f4339455051",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Reverse Engineer Intern, Systems Exploitation",
-   "url": "https://go.vansh.nyc/1xg",
-   "locations": [
-    "United States"
-   ],
-   "posted": 1794438144,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "5b8cd50e492a",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "AI & Data Science Intern, Analytic Capabilities",
-   "url": "https://go.vansh.nyc/1xh",
-   "locations": [
-    "United States"
-   ],
-   "posted": 1794438144,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "ee8c84f31e41",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Reverse Engineer Intern, Offensive Cyber Capabilities",
-   "url": "https://go.vansh.nyc/1xi",
-   "locations": [
-    "United States"
-   ],
-   "posted": 1794438144,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "cb9f08d86971",
-   "company": "Garmin International",
-   "title": "IT DevOps Administrator Intern",
-   "url": "https://go.vansh.nyc/1xf",
-   "locations": [
-    "Olathe, KS"
-   ],
-   "posted": 1794438136,
-   "source": "vanshb03",
-   "category": "",
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -1365,27 +2450,6 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1794471867,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "1c63b642652e",
-   "company": "CarGurus",
-   "title": "Data Analytics Engineer Intern",
-   "url": "https://go.vansh.nyc/1xc",
-   "locations": [
-    "Boston, MA"
-   ],
-   "posted": 1794433013,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
    "us": true,
    "match": {
     "score": 35,
@@ -1503,6 +2567,9 @@
    "posted": 1794432730,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -1511,6 +2578,54 @@
     "reasons": [
      "title: software"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "8443fc9b5cb0",
+   "company": "Medpace",
+   "title": "Clinical Informatics Co-op",
+   "url": "https://go.vansh.nyc/1xj",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "posted": 1794431508,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "ee8c84f31e41",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Reverse Engineer Intern, Offensive Cyber Capabilities",
+   "url": "https://go.vansh.nyc/1xi",
+   "locations": [
+    "United States"
+   ],
+   "posted": 1794431460,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -1592,159 +2707,6 @@
    "has_description": false
   },
   {
-   "id": "2bef4e26535e",
-   "company": "NVIDIA",
-   "title": "System Software Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
-   "locations": [
-    "Finland, Helsinki"
-   ],
-   "posted": 1794430410,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1794428039,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "cacaed28be83",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Systems Engineering Intern (2027)- Tac Comm (Onsite)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--2027---Tac-Comm--Onsite-_01888309",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted": 1794430410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794471867,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "1be64f23e6e8",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) - Onsite",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027----Onsite_01889033",
-   "locations": [
-    "Tewksbury, MA"
-   ],
-   "posted": 1794430410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794471867,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: electrical"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "0bb0cc72e7f0",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Operations Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570",
-   "locations": [
-    "Farmington, NM"
-   ],
-   "posted": 1794430410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794428039,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "8e11a4c98853",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437",
-   "locations": [
-    "Tewksbury, MA"
-   ],
-   "posted": 1794430410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1792086481,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: electrical"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "1dfab7b03b75",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "SAP ERP Transformation, Plan to Sustain (Aftermarket) Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502",
-   "locations": [
-    "Remote, GA"
-   ],
-   "posted": 1794430410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1793777589,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "27524fe0e5eb",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Structural Engineering Intern (Summer 2027)(Onsite)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158",
-   "locations": [
-    "East Hartford-Eng, CT"
-   ],
-   "posted": 1794430410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794428039,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "e5832543c30c",
    "company": "Woolpert",
    "title": "Aviation Modeling & Simulation Intern",
@@ -1803,6 +2765,9 @@
    "posted": 1794428832,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1794516810,
    "us": true,
    "match": {
@@ -2223,6 +3188,159 @@
    "has_description": false
   },
   {
+   "id": "2bef4e26535e",
+   "company": "NVIDIA",
+   "title": "System Software Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
+   "locations": [
+    "Finland, Helsinki"
+   ],
+   "posted": 1794384343,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1794428039,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "cacaed28be83",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Systems Engineering Intern (2027)- Tac Comm (Onsite)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--2027---Tac-Comm--Onsite-_01888309",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted": 1794384343,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794471867,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "1be64f23e6e8",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) - Onsite",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027----Onsite_01889033",
+   "locations": [
+    "Tewksbury, MA"
+   ],
+   "posted": 1794384343,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794471867,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: electrical"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0bb0cc72e7f0",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Operations Engineering Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570",
+   "locations": [
+    "Farmington, NM"
+   ],
+   "posted": 1794384343,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794428039,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "8e11a4c98853",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437",
+   "locations": [
+    "Tewksbury, MA"
+   ],
+   "posted": 1794384343,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1792086481,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: electrical"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "1dfab7b03b75",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "SAP ERP Transformation, Plan to Sustain (Aftermarket) Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502",
+   "locations": [
+    "Remote, GA"
+   ],
+   "posted": 1794384343,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1793777589,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "27524fe0e5eb",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Structural Engineering Intern (Summer 2027)(Onsite)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158",
+   "locations": [
+    "East Hartford-Eng, CT"
+   ],
+   "posted": 1794384343,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794428039,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "91953df2ad0a",
    "company": "US Internships Public Careers Site",
    "title": "Undergraduate Software Engineering Intern",
@@ -2434,6 +3552,27 @@
      "title: software",
      "title: network"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "6c0b2a7a6cce",
+   "company": "Riot Games",
+   "title": "Data Engineering Intern",
+   "url": "https://go.vansh.nyc/1sS",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "posted": 1794367350,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794383240,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -3053,29 +4192,6 @@
    "has_description": false
   },
   {
-   "id": "b29b7f69a93a",
-   "company": "Unisys",
-   "title": "Software Engineer Intern",
-   "url": "https://go.vansh.nyc/1uC",
-   "locations": [
-    "Eagan, MN"
-   ],
-   "posted": 1794355200,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794428039,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "a686c02337d5",
    "company": "Securitymetrics",
    "title": "Software Engineer Intern",
@@ -3214,32 +4330,6 @@
    "has_description": false
   },
   {
-   "id": "6c0b2a7a6cce",
-   "company": "RTX",
-   "title": "Software Engineering Intern",
-   "url": "https://go.vansh.nyc/1ss",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "posted": 1794354736,
-   "source": "vanshb03",
-   "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
-   "first_seen": 1794383240,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "3c21884c8bc3",
    "company": "DwyerOmega",
    "title": "Applied AI Intern",
@@ -3280,29 +4370,6 @@
     "label": "Low",
     "reasons": [
      "Product category -10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "69ca34bc6bbf",
-   "company": "Art of Problem Solving",
-   "title": "Data Science Intern",
-   "url": "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "posted": 1794353114,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1794383240,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -3412,9 +4479,6 @@
    "posted": 1794348373,
    "source": "vanshb03",
    "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1794383240,
    "us": true,
    "match": {
@@ -3498,32 +4562,6 @@
    "has_description": false
   },
   {
-   "id": "14e17e8f457c",
-   "company": "Renesas Electronics",
-   "title": "Applications Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701",
-   "locations": [
-    "Morrisville, NC"
-   ],
-   "posted": 1794347885,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "also_on": [
-    "vanshb03"
-   ],
-   "first_seen": 1794383240,
-   "us": true,
-   "match": {
-    "score": 53,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "e280b1841403",
    "company": "Minitab",
    "title": "Cybersecurity Intern",
@@ -3597,143 +4635,6 @@
     "score": 35,
     "label": "Low",
     "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "cc58bdc65c45",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Quality Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "posted": 1794344010,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1793141963,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "74e332bff7e0",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "posted": 1794344010,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1792605983,
-   "us": true,
-   "match": {
-    "score": 51,
-    "label": "Medium",
-    "reasons": [
-     "title: electrical",
-     "title: manufacturing"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "5ddf3a41398c",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Electrical Engineer Co-op (Summer/Fall 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "posted": 1794344010,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1792605983,
-   "us": true,
-   "match": {
-    "score": 51,
-    "label": "Medium",
-    "reasons": [
-     "title: electrical",
-     "title: manufacturing"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "497ed1369585",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Factory Enablement Digital Engineer (Spring/Summer Co-op)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted": 1794344010,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1791587920,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "329e0905ba46",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Component Electrical Test Engineer Intern (Summer 2027)(Onsite)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "posted": 1794344010,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794342547,
-   "us": true,
-   "match": {
-    "score": 51,
-    "label": "Medium",
-    "reasons": [
-     "title: electrical",
-     "title: test engineer"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "310310956fe4",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Intern--Summer-2027-_01884905",
-   "locations": [
-    "Troy, OH"
-   ],
-   "posted": 1794344010,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1793024498,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: manufacturing"
-    ]
    },
    "flags": [],
    "has_description": false
@@ -3847,29 +4748,6 @@
     "score": 35,
     "label": "Low",
     "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "70745294d42f",
-   "company": "General Motors",
-   "title": "Machine Learning Engineer Intern, Embodied AI",
-   "url": "https://go.vansh.nyc/1rQ",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "posted": 1794336000,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794342547,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: machine learning"
-    ]
    },
    "flags": [],
    "has_description": false
@@ -4378,29 +5256,6 @@
    "has_description": false
   },
   {
-   "id": "e7636af09a47",
-   "company": "Zebra Technologies",
-   "title": "Security Intern",
-   "url": "https://go.vansh.nyc/1qC",
-   "locations": [
-    "Lincolnshire, IL"
-   ],
-   "posted": 1794327607,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: security"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "2c21956ccec1",
    "company": "Addepar",
    "title": "Data Engineer Intern",
@@ -4832,6 +5687,120 @@
    "has_description": false
   },
   {
+   "id": "cc58bdc65c45",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Quality Engineering Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "posted": 1794297943,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1793141963,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "74e332bff7e0",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "posted": 1794297943,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1792605983,
+   "us": true,
+   "match": {
+    "score": 51,
+    "label": "Medium",
+    "reasons": [
+     "title: electrical",
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "5ddf3a41398c",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Electrical Engineer Co-op (Summer/Fall 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "posted": 1794297943,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1792605983,
+   "us": true,
+   "match": {
+    "score": 51,
+    "label": "Medium",
+    "reasons": [
+     "title: electrical",
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "497ed1369585",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Factory Enablement Digital Engineer (Spring/Summer Co-op)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted": 1794297943,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1791587920,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "329e0905ba46",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Component Electrical Test Engineer Intern (Summer 2027)(Onsite)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted": 1794297943,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794342547,
+   "us": true,
+   "match": {
+    "score": 51,
+    "label": "Medium",
+    "reasons": [
+     "title: electrical",
+     "title: test engineer"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "853ae7480ec3",
    "company": "Synopsys",
    "title": "Engineering Documentation and AI Automation Co-op",
@@ -5249,86 +6218,6 @@
    "has_description": false
   },
   {
-   "id": "f654ec687ae5",
-   "company": "RTX",
-   "title": "Software Engineering Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806",
-   "locations": [
-    "St. Petersburg, FL"
-   ],
-   "posted": 1794268800,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "also_on": [
-    "vanshb03",
-    "Workday (RTX (Collins / Raytheon / Pratt))"
-   ],
-   "first_seen": 1794383240,
-   "us": true,
-   "match": {
-    "score": 57,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "3563b55673d1",
-   "company": "RTX",
-   "title": "Software Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045",
-   "locations": [
-    "Largo, FL"
-   ],
-   "posted": 1794268800,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "also_on": [
-    "Workday (RTX (Collins / Raytheon / Pratt))"
-   ],
-   "first_seen": 1794383240,
-   "us": true,
-   "match": {
-    "score": 57,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "85c01167dbc9",
-   "company": "General Motors",
-   "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "posted": 1794268800,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1794383240,
-   "us": true,
-   "match": {
-    "score": 53,
-    "label": "Medium",
-    "reasons": [
-     "Software category +10",
-     "title: software",
-     "title: machine learning"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "3eeeadd838f8",
    "company": "Eversource Energy",
    "title": "GIS Intern",
@@ -5499,27 +6388,23 @@
    "has_description": false
   },
   {
-   "id": "edcc9c56b0ba",
-   "company": "RTX",
-   "title": "Software Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049",
+   "id": "befcf71cd633",
+   "company": "General Dynamics Information Technology",
+   "title": "Data Analytics Associate Intern",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200",
    "locations": [
-    "Richardson, TX"
+    "Falls Church, VA"
    ],
    "posted": 1794268800,
    "source": "SimplifyJobs",
-   "category": "Software",
-   "also_on": [
-    "Workday (RTX (Collins / Raytheon / Pratt))"
-   ],
-   "first_seen": 1794383240,
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
    "us": true,
    "match": {
-    "score": 49,
+    "score": 39,
     "label": "Low",
     "reasons": [
-     "Software category +10",
-     "title: software"
+     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -5618,29 +6503,6 @@
     "label": "Medium",
     "reasons": [
      "title: embedded",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "6ab031868eb1",
-   "company": "RTX",
-   "title": "Software Engineering Intern",
-   "url": "https://go.vansh.nyc/1sg",
-   "locations": [
-    "Largo, FL"
-   ],
-   "posted": 1794268800,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794383240,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
      "title: software"
     ]
    },
@@ -6047,249 +6909,6 @@
    "has_description": false
   },
   {
-   "id": "0bf35a9216c0",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Industrial Engineering Co-op (Summer/Fall 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794299312,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "9f99b1233c77",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01888519",
-   "locations": [
-    "Manchester, IA"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794299312,
-   "us": true,
-   "match": {
-    "score": 51,
-    "label": "Medium",
-    "reasons": [
-     "title: electrical",
-     "title: manufacturing"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "22b27129add8",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Facilities Maintenance Co-Op (Summer/Fall 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Facilities-Maintenance-Co-Op--Summer-Fall-2027-_01885767",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794299312,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "27d85a46f575",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Product Safety Co-op (Summer/Fall 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Product-Safety-Co-op--Summer-Fall-2027-_01887481",
-   "locations": [
-    "Burnsville-North, MN"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "0b9580dd2e24",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Engineer Co-op (Spring/Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Spring-Summer-2027-_01887620",
-   "locations": [
-    "Wilson, NC"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: manufacturing"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "7038bb9b504a",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Engineer Co-op (Summer/Fall 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Summer-Fall-2027-_01887632",
-   "locations": [
-    "Wilson, NC"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: manufacturing"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "8a2704cdb7be",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Industrial Engineer Co-op (Spring/Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Spring-Summer-2027-_01887651",
-   "locations": [
-    "Wilson, NC"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "754f8ab4e28d",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Industrial Engineer Co-op (Summer/Fall 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Summer-Fall-2027-_01887663",
-   "locations": [
-    "Wilson, NC"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "24b7bbfa49d3",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Electro-Optic Intern (Summer 2027)(Onsite)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "f2d00e9b5ed5",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Configuration Management Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Configuration-Management-Intern--Summer-2027-_01888077",
-   "locations": [
-    "Andover, MA"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "also_on": [
-    "Workday (RTX (Collins / Raytheon / Pratt))"
-   ],
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "8b6afde73290",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Mechanical Engineering Intern (Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Mechanical-Engineering-Intern--Summer-2027-_01887588",
-   "locations": [
-    "Spokane, WA"
-   ],
-   "posted": 1794257610,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: mechanical"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "9ea723b35a12",
    "company": "Persona AI",
    "title": "Humanoid Robotics Software Intern",
@@ -6429,18 +7048,15 @@
   },
   {
    "id": "c420700f15dd",
-   "company": "National Interstate Insurance",
-   "title": "Telematics / Predictive Analytics Intern",
-   "url": "https://go.vansh.nyc/1pj",
+   "company": "DreamWorks Animation",
+   "title": "Data Science Intern, Advertising & Partnerships",
+   "url": "https://go.vansh.nyc/1pJ",
    "locations": [
-    "Cincinnati, OH"
+    "New York, NY"
    ],
    "posted": 1794248802,
    "source": "vanshb03",
    "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1794265272,
    "us": true,
    "match": {
@@ -7203,6 +7819,275 @@
    "has_description": false
   },
   {
+   "id": "5b8cd50e492a",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "AI & Data Science Intern, Analytic Capabilities",
+   "url": "https://go.vansh.nyc/1xh",
+   "locations": [
+    "United States"
+   ],
+   "posted": 1794212636,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0bf35a9216c0",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Industrial Engineering Co-op (Summer/Fall 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794299312,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "9f99b1233c77",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01888519",
+   "locations": [
+    "Manchester, IA"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794299312,
+   "us": true,
+   "match": {
+    "score": 51,
+    "label": "Medium",
+    "reasons": [
+     "title: electrical",
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "22b27129add8",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Facilities Maintenance Co-Op (Summer/Fall 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Facilities-Maintenance-Co-Op--Summer-Fall-2027-_01885767",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794299312,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0b9580dd2e24",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Engineer Co-op (Spring/Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Spring-Summer-2027-_01887620",
+   "locations": [
+    "Wilson, NC"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794265272,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "7038bb9b504a",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Engineer Co-op (Summer/Fall 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Summer-Fall-2027-_01887632",
+   "locations": [
+    "Wilson, NC"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794265272,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "8a2704cdb7be",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Industrial Engineer Co-op (Spring/Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Spring-Summer-2027-_01887651",
+   "locations": [
+    "Wilson, NC"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794265272,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "754f8ab4e28d",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Industrial Engineer Co-op (Summer/Fall 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Summer-Fall-2027-_01887663",
+   "locations": [
+    "Wilson, NC"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794265272,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "24b7bbfa49d3",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Electro-Optic Intern (Summer 2027)(Onsite)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "d6f99670a474",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-310--1100-W-Hibiscus-Blvd--BLDG-310/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886465",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794265272,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "63462d291d82",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-310--1100-W-Hibiscus-Blvd--BLDG-310/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886467",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "first_seen": 1794265272,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "f2d00e9b5ed5",
+   "company": "RTX (Collins / Raytheon / Pratt)",
+   "title": "Configuration Management Intern (Summer 2027)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Configuration-Management-Intern--Summer-2027-_01888077",
+   "locations": [
+    "Andover, MA"
+   ],
+   "posted": 1794211543,
+   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
+   "category": "",
+   "also_on": [
+    "Workday (RTX (Collins / Raytheon / Pratt))"
+   ],
+   "first_seen": 1794265272,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "e7895b87b0d7",
    "company": "Badger Meter",
    "title": "Product Management Intern",
@@ -7331,29 +8216,6 @@
    "has_description": false
   },
   {
-   "id": "0ab946ca3952",
-   "company": "Great American Insurance Company",
-   "title": "Telematics / Predictive Analytics Intern",
-   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "posted": 1794182400,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1794299312,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "514b9b68cc61",
    "company": "Ryan",
    "title": "Application Development Intern - Application Development",
@@ -7469,30 +8331,6 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "8ad84c58e81e",
-   "company": "Radiance Technologies",
-   "title": "Software Engineer Intern",
-   "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563",
-   "locations": [
-    "Beavercreek, OH"
-   ],
-   "posted": 1794182400,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1794516810,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
     ]
    },
    "flags": [],
@@ -7623,29 +8461,6 @@
    "flags": [
     "grad-level"
    ],
-   "has_description": false
-  },
-  {
-   "id": "37813a10d15b",
-   "company": "UiPath",
-   "title": "AI Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "posted": 1794182400,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1794299312,
-   "us": true,
-   "match": {
-    "score": 45,
-    "label": "Low",
-    "reasons": [
-     "Software category +10"
-    ]
-   },
-   "flags": [],
    "has_description": false
   },
   {
@@ -7980,27 +8795,6 @@
    "has_description": false
   },
   {
-   "id": "6934528ceb3f",
-   "company": "NVIDIA",
-   "title": "Reinforcement Learning Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1",
-   "locations": [
-    "3 Locations"
-   ],
-   "posted": 1794084810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1793995113,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "40052b2119a4",
    "company": "Framatome",
    "title": "AI and Software Innovation Intern",
@@ -8110,6 +8904,27 @@
      "AI/ML/Data category +4",
      "title: software"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "6934528ceb3f",
+   "company": "NVIDIA",
+   "title": "Reinforcement Learning Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1",
+   "locations": [
+    "3 Locations"
+   ],
+   "posted": 1794038743,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793995113,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -8279,6 +9094,28 @@
    "url": "https://go.vansh.nyc/1ms",
    "locations": [
     "Houston, TX"
+   ],
+   "posted": 1794009600,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794122835,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "bd9a49936648",
+   "company": "United Wholesale Mortgage",
+   "title": "Technology Intern Program",
+   "url": "https://go.vansh.nyc/1mx",
+   "locations": [
+    "Remote",
+    "United States"
    ],
    "posted": 1794009600,
    "source": "vanshb03",
@@ -8571,79 +9408,6 @@
     "score": 35,
     "label": "Low",
     "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "71d77cbcb4c2",
-   "company": "NVIDIA",
-   "title": "AI Developer Technology Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
-   "locations": [
-    "3 Locations"
-   ],
-   "posted": 1793998410,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1793951913,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "d6f99670a474",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-310--1100-W-Hibiscus-Blvd--BLDG-310/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886465",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "posted": 1793998410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "also_on": [
-    "Workday (RTX (Collins / Raytheon / Pratt))"
-   ],
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: manufacturing"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "63462d291d82",
-   "company": "RTX (Collins / Raytheon / Pratt)",
-   "title": "Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-310--1100-W-Hibiscus-Blvd--BLDG-310/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886467",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "posted": 1793998410,
-   "source": "Workday (RTX (Collins / Raytheon / Pratt))",
-   "category": "",
-   "also_on": [
-    "Workday (RTX (Collins / Raytheon / Pratt))"
-   ],
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: manufacturing"
-    ]
    },
    "flags": [],
    "has_description": false
@@ -9446,6 +10210,27 @@
    "has_description": false
   },
   {
+   "id": "71d77cbcb4c2",
+   "company": "NVIDIA",
+   "title": "AI Developer Technology Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+   "locations": [
+    "3 Locations"
+   ],
+   "posted": 1793952343,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793951913,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "10dc2720a323",
    "company": "Match Group",
    "title": "Data Scientist Intern",
@@ -9849,33 +10634,6 @@
    "posted": 1793923200,
    "source": "SimplifyJobs",
    "category": "Software",
-   "first_seen": 1793995113,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "7487f7d03f08",
-   "company": "T-Mobile",
-   "title": "Software Engineering Intern",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
-   "locations": [
-    "Overland Park, KS"
-   ],
-   "posted": 1793923200,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -13935,6 +14693,27 @@
    "has_description": false
   },
   {
+   "id": "56faf88afd86",
+   "company": "BlueCross BlueShield of Nebraska",
+   "title": "Data Intern, Healthcare",
+   "url": "https://go.vansh.nyc/1fk",
+   "locations": [
+    "Omaha, NE"
+   ],
+   "posted": 1793745398,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1793777589,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "d3025650c861",
    "company": "TruStage",
    "title": "IT Intern, Innovation & AI Technology",
@@ -13986,27 +14765,6 @@
    "url": "https://go.vansh.nyc/1f0",
    "locations": [
     "Milwaukee, WI"
-   ],
-   "posted": 1793743607,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1793777589,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "db052fd4fcea",
-   "company": "Dairyland Power Cooperative",
-   "title": "Energy Data Analyst Intern",
-   "url": "https://go.vansh.nyc/1f1",
-   "locations": [
-    "La Crosse, WI"
    ],
    "posted": 1793743607,
    "source": "vanshb03",
@@ -14103,29 +14861,6 @@
     "score": 35,
     "label": "Low",
     "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "176741899e75",
-   "company": "NVIDIA",
-   "title": "LLM Reinforcement Learning Framework Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/LLM-Reinforcement-Learning-Framework-Intern---2027_JR2027624",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1793739210,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1793777589,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: llm"
-    ]
    },
    "flags": [],
    "has_description": false
@@ -14379,6 +15114,29 @@
     "score": 35,
     "label": "Low",
     "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "176741899e75",
+   "company": "NVIDIA",
+   "title": "LLM Reinforcement Learning Framework Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/LLM-Reinforcement-Learning-Framework-Intern---2027_JR2027624",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1793693143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793777589,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: llm"
+    ]
    },
    "flags": [],
    "has_description": false
@@ -15647,52 +16405,6 @@
    "has_description": false
   },
   {
-   "id": "c09984c8ac2e",
-   "company": "JM Family",
-   "title": "AI Center of Excellence Delivery Team Intern",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176",
-   "locations": [
-    "Deerfield Beach, FL"
-   ],
-   "posted": 1793664000,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1793777589,
-   "us": true,
-   "match": {
-    "score": 45,
-    "label": "Low",
-    "reasons": [
-     "Software category +10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "4fe40e27206a",
-   "company": "JM Family",
-   "title": "AI & Decision Science Intern",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095",
-   "locations": [
-    "Deerfield Beach, FL"
-   ],
-   "posted": 1793664000,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1793777589,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "bdc923258009",
    "company": "TruStage",
    "title": "Innovation & AI Technology Intern",
@@ -15889,30 +16601,6 @@
      "title: validation",
      "title: security"
     ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "56faf88afd86",
-   "company": "BlueCross BlueShield of Nebraska",
-   "title": "Data Intern, Healthcare",
-   "url": "https://go.vansh.nyc/1fk",
-   "locations": [
-    "Omaha, NE"
-   ],
-   "posted": 1793664000,
-   "source": "vanshb03",
-   "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
-   "first_seen": 1793777589,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -16434,24 +17122,25 @@
    "has_description": false
   },
   {
-   "id": "a2ae7dee2e76",
-   "company": "NVIDIA",
-   "title": "Manufacturing Automation Solution Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280",
+   "id": "0f4339455051",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Reverse Engineer Intern, Systems Exploitation",
+   "url": "https://go.vansh.nyc/1xg",
    "locations": [
-    "China, Shenzhen"
+    "United States"
    ],
-   "posted": 1793652810,
-   "source": "Workday (NVIDIA)",
+   "posted": 1793650192,
+   "source": "vanshb03",
    "category": "",
-   "first_seen": 1793557611,
-   "us": false,
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794516810,
+   "us": true,
    "match": {
-    "score": 43,
+    "score": 35,
     "label": "Low",
-    "reasons": [
-     "title: manufacturing"
-    ]
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -16569,6 +17258,77 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "1c63b642652e",
+   "company": "CarGurus",
+   "title": "Data Analytics Engineer Intern",
+   "url": "https://go.vansh.nyc/1xc",
+   "locations": [
+    "Boston, MA"
+   ],
+   "posted": 1793643845,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "cb9f08d86971",
+   "company": "Garmin International",
+   "title": "IT DevOps Administrator Intern",
+   "url": "https://go.vansh.nyc/1xf",
+   "locations": [
+    "Olathe, KS"
+   ],
+   "posted": 1793643845,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1794516810,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "bff1a63b84c3",
+   "company": "US Internships Public Careers Site",
+   "title": "Undergraduate Software Development Engineer in Test Intern",
+   "url": "https://go.vansh.nyc/1xD",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "posted": 1793643845,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
     ]
    },
    "flags": [],
@@ -16963,6 +17723,29 @@
    "has_description": false
   },
   {
+   "id": "a2ae7dee2e76",
+   "company": "NVIDIA",
+   "title": "Manufacturing Automation Solution Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280",
+   "locations": [
+    "China, Shenzhen"
+   ],
+   "posted": 1793606743,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793557611,
+   "us": false,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: manufacturing"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "b881bb700ad2",
    "company": "Roku",
    "title": "Software Engineer Intern - AI Engineering",
@@ -17147,7 +17930,6 @@
    "category": "Software",
    "also_on": [
     "SimplifyJobs",
-    "vanshb03",
     "vanshb03",
     "vanshb03"
    ],
@@ -17374,6 +18156,29 @@
     "label": "Low",
     "reasons": [
      "Software category +10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "dc94a19d8a76",
+   "company": "JSX",
+   "title": "Commercial Intern",
+   "url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "posted": 1793577600,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -17812,6 +18617,30 @@
     "label": "Low",
     "reasons": [
      "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "4b7c64a28a40",
+   "company": "TikTok",
+   "title": "Software Engineer Project Intern, Content AI Infrastructure",
+   "url": "https://go.vansh.nyc/18G",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted": 1793525855,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: software",
+     "title: infrastructure"
     ]
    },
    "flags": [],
@@ -18737,45 +19566,25 @@
    "has_description": false
   },
   {
-   "id": "9f8c60ab067f",
+   "id": "cd7780511110",
    "company": "NVIDIA",
-   "title": "Developer Tools DevOps Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
+   "title": "Autonomous Vehicles and Robotics Intern",
+   "url": "https://go.vansh.nyc/12h",
    "locations": [
-    "Poland, Warsaw"
+    "Santa Clara, CA"
    ],
-   "posted": 1793480010,
-   "source": "Workday (NVIDIA)",
+   "posted": 1793448359,
+   "source": "vanshb03",
    "category": "",
-   "first_seen": 1792153825,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: tools"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "7090c48dc00a",
-   "company": "NVIDIA",
-   "title": "Math Device Extension Libraries Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206",
-   "locations": [
-    "4 Locations"
-   ],
-   "posted": 1793480010,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1793107142,
+   "first_seen": 1793454145,
    "us": true,
    "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
+    "score": 63,
+    "label": "Medium",
+    "reasons": [
+     "title: robotics",
+     "title: autonomous"
+    ]
    },
    "flags": [],
    "has_description": false
@@ -18820,6 +19629,50 @@
     "reasons": [
      "title: security"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "9f8c60ab067f",
+   "company": "NVIDIA",
+   "title": "Developer Tools DevOps Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
+   "locations": [
+    "Poland, Warsaw"
+   ],
+   "posted": 1793433943,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1792153825,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: tools"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "7090c48dc00a",
+   "company": "NVIDIA",
+   "title": "Math Device Extension Libraries Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206",
+   "locations": [
+    "4 Locations"
+   ],
+   "posted": 1793433943,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793107142,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -19008,33 +19861,6 @@
     "label": "Low",
     "reasons": [
      "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "cd7780511110",
-   "company": "NVIDIA",
-   "title": "Autonomous Vehicles and Robotics Intern",
-   "url": "https://go.vansh.nyc/12h",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted": 1793404800,
-   "source": "vanshb03",
-   "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
-   "first_seen": 1793454145,
-   "us": true,
-   "match": {
-    "score": 63,
-    "label": "Medium",
-    "reasons": [
-     "title: robotics",
-     "title: autonomous"
     ]
    },
    "flags": [],
@@ -19712,6 +20538,29 @@
     "NYC"
    ],
    "posted": 1793401464,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1793430233,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "6f4c726de92b",
+   "company": "Molina Healthcare",
+   "title": "Customer Experience & Analytics Intern - Undergraduate",
+   "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169",
+   "locations": [
+    "Remote in USA"
+   ],
+   "posted": 1793400655,
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "first_seen": 1793430233,
@@ -21108,69 +21957,6 @@
    "has_description": false
   },
   {
-   "id": "24b0cb72e820",
-   "company": "NVIDIA",
-   "title": "Perf Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1793307210,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1793229428,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "f780b27fd03f",
-   "company": "NVIDIA",
-   "title": "Performance Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1793307210,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1793229428,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "75b4a422f447",
-   "company": "NVIDIA",
-   "title": "Performance Testing Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1",
-   "locations": [
-    "Armenia, Yerevan"
-   ],
-   "posted": 1793307210,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1793316035,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "5df6c956863a",
    "company": "V2X",
    "title": "Electrical Engineer Intern",
@@ -21418,24 +22204,23 @@
   },
   {
    "id": "3a6add5ec85f",
-   "company": "Invitation-charter",
-   "title": "Data Developer Intern",
-   "url": "https://go.vansh.nyc/1kw",
+   "company": "Talos",
+   "title": "Software Engineer Intern, RFQ",
+   "url": "https://go.vansh.nyc/1kW",
    "locations": [
-    "Greenwood Village, CO"
+    "New York, NY"
    ],
    "posted": 1793286501,
    "source": "vanshb03",
    "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
-    "score": 35,
+    "score": 39,
     "label": "Low",
-    "reasons": []
+    "reasons": [
+     "title: software"
+    ]
    },
    "flags": [],
    "has_description": false
@@ -21551,6 +22336,69 @@
      "Software category +10",
      "title: software"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "24b0cb72e820",
+   "company": "NVIDIA",
+   "title": "Perf Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1793261143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793229428,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "f780b27fd03f",
+   "company": "NVIDIA",
+   "title": "Performance Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1793261143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793229428,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "75b4a422f447",
+   "company": "NVIDIA",
+   "title": "Performance Testing Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1",
+   "locations": [
+    "Armenia, Yerevan"
+   ],
+   "posted": 1793261143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1793316035,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -21873,29 +22721,6 @@
     "label": "Low",
     "reasons": [
      "Quant category -6"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "d0a0bf05402b",
-   "company": "Pernod Ricard, créateurs de convivialité",
-   "title": "Data & Business Transformation Placement Intern",
-   "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/London/Data---Business-Transformation-Placement---June-2027_JR-055452-1",
-   "locations": [
-    "London, UK"
-   ],
-   "posted": 1793232000,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1793316035,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -22847,32 +23672,6 @@
    "has_description": false
   },
   {
-   "id": "8d5592818f7e",
-   "company": "Sherwin-Williams",
-   "title": "R&D Data Science Co-op",
-   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789",
-   "locations": [
-    "Brecksville, OH"
-   ],
-   "posted": 1793226485,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "also_on": [
-    "vanshb03"
-   ],
-   "first_seen": 1793229428,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "744678553000",
    "company": "Nintendo",
    "title": "Software Engineer Intern - Platform Security",
@@ -23193,29 +23992,6 @@
    "has_description": false
   },
   {
-   "id": "ada75a0bd0ba",
-   "company": "SeatGeek",
-   "title": "Security Engineer Intern",
-   "url": "https://go.vansh.nyc/1oZ",
-   "locations": [
-    "New York, NY"
-   ],
-   "posted": 1793221683,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: security"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "4e829dfc4902",
    "company": "Beli",
    "title": "Data Science Intern",
@@ -23508,28 +24284,6 @@
     "vanshb03"
    ],
    "first_seen": 1794265272,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "18f9ad08de94",
-   "company": "Micron Technology",
-   "title": "Data Science Intern",
-   "url": "https://go.vansh.nyc/XF",
-   "locations": [
-    "San Jose, CA",
-    "Folsom, CA"
-   ],
-   "posted": 1793206262,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1793995113,
    "us": true,
    "match": {
     "score": 35,
@@ -26254,31 +27008,6 @@
    "has_description": false
   },
   {
-   "id": "bd9a49936648",
-   "company": "United Wholesale Mortgage",
-   "title": "Technology Intern Program",
-   "url": "https://go.vansh.nyc/1mx",
-   "locations": [
-    "Remote",
-    "United States"
-   ],
-   "posted": 1793059200,
-   "source": "vanshb03",
-   "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
-   "first_seen": 1794122835,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "4b5da1b4e34a",
    "company": "Space Dynamics Laboratory",
    "title": "Software Engineer Intern",
@@ -27038,30 +27767,6 @@
    "has_description": false
   },
   {
-   "id": "60d2b3458e0b",
-   "company": "Jabil",
-   "title": "Validation Engineer Intern",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted": 1792972800,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "first_seen": 1793056201,
-   "us": true,
-   "match": {
-    "score": 61,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: validation"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "24e4573c192f",
    "company": "Royal Bank of Canada",
    "title": "Data Engineer Intern",
@@ -27323,29 +28028,6 @@
     "label": "Low",
     "reasons": [
      "Product category -10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "ab3bde58029c",
-   "company": "Highmark Health",
-   "title": "Data Analyst Intern",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "posted": 1792972800,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1793056201,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -28049,6 +28731,30 @@
    "has_description": false
   },
   {
+   "id": "e3db8503eb31",
+   "company": "Federal Home Loan Bank of Dallas",
+   "title": "Accounting Tech Solutions Intern",
+   "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444",
+   "locations": [
+    "Irving, TX"
+   ],
+   "posted": 1792972800,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 9,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4",
+     "title: accounting -30"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "55a088e97994",
    "company": "Royal Bank of Canada",
    "title": "Data Engineer Intern",
@@ -28567,27 +29273,6 @@
    "has_description": false
   },
   {
-   "id": "f32aaf08178f",
-   "company": "NVIDIA",
-   "title": "Computer Architecture Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052",
-   "locations": [
-    "2 Locations"
-   ],
-   "posted": 1792788810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1792778033,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "3112ec23b950",
    "company": "Intercontinental Exchange",
    "title": "Index Analyst Intern",
@@ -28724,6 +29409,27 @@
     "reasons": [
      "Quant category -6"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "f32aaf08178f",
+   "company": "NVIDIA",
+   "title": "Computer Architecture Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052",
+   "locations": [
+    "2 Locations"
+   ],
+   "posted": 1792742743,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1792778033,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -30319,6 +31025,29 @@
    "has_description": false
   },
   {
+   "id": "a1a4a140c58c",
+   "company": "Pattern",
+   "title": "Data Science Intern",
+   "url": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply",
+   "locations": [
+    "Lehi, UT"
+   ],
+   "posted": 1792707885,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1792735490,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "3ed592a51caf",
    "company": "Schonfeld",
    "title": "PhD Centralized Research Intern",
@@ -31104,7 +31833,7 @@
   {
    "id": "d3be02f8e87e",
    "company": "Anduril",
-   "title": "2027 Business Operations Intern",
+   "title": "2027 Business Operations Intern - Connected Warfare",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007",
    "locations": [
     "Costa Mesa, California, United States; Seattle, Washington, United States"
@@ -31130,29 +31859,6 @@
     "export-control / U.S. person"
    ],
    "has_description": true
-  },
-  {
-   "id": "936322b9f1dc",
-   "company": "NVIDIA",
-   "title": "Software Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1792616010,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1792587561,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
   },
   {
    "id": "bac20ffbcce3",
@@ -31295,6 +32001,29 @@
     "label": "Low",
     "reasons": [
      "Software category +10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "936322b9f1dc",
+   "company": "NVIDIA",
+   "title": "Software Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1792569943,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1792587561,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
     ]
    },
    "flags": [],
@@ -31482,53 +32211,6 @@
    "category": "AI/ML/Data",
    "first_seen": 1792605983,
    "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "3261ea037426",
-   "company": "KeyBank",
-   "title": "Marketing Analytics Intern",
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822",
-   "locations": [
-    "Brooklyn, OH"
-   ],
-   "posted": 1792540800,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1792649356,
-   "us": true,
-   "match": {
-    "score": 9,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4",
-     "title: marketing -30"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "bf5ee6d4d012",
-   "company": "ABB",
-   "title": "Power BI Intern",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437",
-   "locations": [
-    "Cary, NC"
-   ],
-   "posted": 1792540800,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1792649356,
-   "us": true,
    "match": {
     "score": 39,
     "label": "Low",
@@ -33116,27 +33798,6 @@
    "has_description": false
   },
   {
-   "id": "2db472f1f491",
-   "company": "NVIDIA",
-   "title": "ASIC TOP Floorplan Intern, 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1792443210,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1792421049,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "b5cb89694149",
    "company": "Nissan",
    "title": "AI Autonomous Driving Verification & Validation Intern",
@@ -33490,6 +34151,27 @@
    "category": "",
    "first_seen": 1792931805,
    "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "2db472f1f491",
+   "company": "NVIDIA",
+   "title": "ASIC TOP Floorplan Intern, 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1792397143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1792421049,
+   "us": false,
    "match": {
     "score": 35,
     "label": "Low",
@@ -35169,6 +35851,33 @@
    "has_description": false
   },
   {
+   "id": "3057ca2de258",
+   "company": "Systems Planning and Analysis",
+   "title": "Data Engineering & Analytics Tools Intern",
+   "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
+   "locations": [
+    "Washington, DC"
+   ],
+   "posted": 1792186320,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1793454145,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4",
+     "title: tools"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "553aeba54256",
    "company": "Riverlane",
    "title": "PhD Research Intern",
@@ -36026,6 +36735,33 @@
     "label": "Low",
     "reasons": [
      "title: validation",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "b9f378a34d56",
+   "company": "Garmin",
+   "title": "Software Engineer Intern",
+   "url": "https://careers.garmin.com/jobs/20129?icims=1",
+   "locations": [
+    "Brea, CA"
+   ],
+   "posted": 1792074960,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1793911318,
+   "us": true,
+   "match": {
+    "score": 57,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
      "title: software"
     ]
    },
@@ -37050,6 +37786,530 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1794211437,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "ca2090714acf",
+   "company": "NVIDIA",
+   "title": "DFT Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/DFT-Intern---2027_JR2027176",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1791877650,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "465ad162b7ca",
+   "company": "NVIDIA",
+   "title": "Software QA Developer Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "69c246bbc41f",
+   "company": "NVIDIA",
+   "title": "ASIC Physical Design Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050",
+   "locations": [
+    "Taiwan, Hsinchu"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "41134a5d711b",
+   "company": "NVIDIA",
+   "title": "ASIC Physical Design Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Intern---2027_JR2023914",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "de5a40167f5b",
+   "company": "NVIDIA",
+   "title": "Developer Technology Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
+   "locations": [
+    "2 Locations"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "86ec6443ed8c",
+   "company": "NVIDIA",
+   "title": "Circuit Validation Engineer Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: validation"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "a27ba3e6854b",
+   "company": "NVIDIA",
+   "title": "Infrastructure Tool Development Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: infrastructure"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "c04dc3e305d6",
+   "company": "NVIDIA",
+   "title": "Post Silicon Validation Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "title: validation"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0828ce112f4c",
+   "company": "NVIDIA",
+   "title": "Silicon Co-design Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "a798e912775f",
+   "company": "NVIDIA",
+   "title": "AI Infra Development Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "b53fad8dc1eb",
+   "company": "NVIDIA",
+   "title": "DFT Engineer (RDSS Intern) - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180",
+   "locations": [
+    "2 Locations"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "659966adddfb",
+   "company": "NVIDIA",
+   "title": "Deep Learning Compiler Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262",
+   "locations": [
+    "2 Locations"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0ead304f5bfa",
+   "company": "NVIDIA",
+   "title": "APAC Ecommerce Backend Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030",
+   "locations": [
+    "2 Locations"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1791272245,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "74d3bb75eded",
+   "company": "NVIDIA",
+   "title": "Business Development Management Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Business-Development-Management-Intern---2027_JR2026580",
+   "locations": [
+    "China, Beijing"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1791789992,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "ced0f1504daf",
+   "company": "NVIDIA",
+   "title": "Deep Learning Performance Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2026880",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "also_on": [
+    "Workday (NVIDIA)"
+   ],
+   "first_seen": 1791789992,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "98269cde6365",
+   "company": "NVIDIA",
+   "title": "Test Development Software Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "also_on": [
+    "Workday (NVIDIA)"
+   ],
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "4ee27a09d202",
+   "company": "NVIDIA",
+   "title": "SOC Design Team Methodology Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/SOC-Design-Team-Methodology-Intern---2027_JR2024861",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "3b621abd7659",
+   "company": "NVIDIA",
+   "title": "Architecture Energy Modeling Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Architecture-Energy-Modeling-Engineering-Intern---2027_JR2025424",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "adc83bc9dc5a",
+   "company": "NVIDIA",
+   "title": "Power Analysis and Optimization Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Power-Analysis-and-Optimization-Intern---2027_JR2025535",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "63f68c6d6f3f",
+   "company": "NVIDIA",
+   "title": "AI Computing Software Development Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
+   "locations": [
+    "2 Locations"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "187393200153",
+   "company": "NVIDIA",
+   "title": "Managed Language Compiler Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "04be9597fb28",
+   "company": "NVIDIA",
+   "title": "AI Computing Software Development Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
+   "locations": [
+    "Taiwan, Taipei"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1790926137,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "28a5ba6343f2",
+   "company": "NVIDIA",
+   "title": "GPU Compiler LLVM Backend Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1791247872,
+   "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "d6c3ae79ce49",
+   "company": "NVIDIA",
+   "title": "MLOps Physical AI Data Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544",
+   "locations": [
+    "China, Shanghai"
+   ],
+   "posted": 1791965143,
+   "source": "Workday (NVIDIA)",
+   "category": "",
+   "first_seen": 1791789992,
    "us": false,
    "match": {
     "score": 35,
@@ -38611,530 +39871,6 @@
    "has_description": false
   },
   {
-   "id": "ca2090714acf",
-   "company": "NVIDIA",
-   "title": "DFT Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/DFT-Intern---2027_JR2027176",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1791877650,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "465ad162b7ca",
-   "company": "NVIDIA",
-   "title": "Software QA Developer Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "69c246bbc41f",
-   "company": "NVIDIA",
-   "title": "ASIC Physical Design Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050",
-   "locations": [
-    "Taiwan, Hsinchu"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "41134a5d711b",
-   "company": "NVIDIA",
-   "title": "ASIC Physical Design Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Intern---2027_JR2023914",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "de5a40167f5b",
-   "company": "NVIDIA",
-   "title": "Developer Technology Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
-   "locations": [
-    "2 Locations"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "86ec6443ed8c",
-   "company": "NVIDIA",
-   "title": "Circuit Validation Engineer Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: validation"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "a27ba3e6854b",
-   "company": "NVIDIA",
-   "title": "Infrastructure Tool Development Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: infrastructure"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "c04dc3e305d6",
-   "company": "NVIDIA",
-   "title": "Post Silicon Validation Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "title: validation"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "0828ce112f4c",
-   "company": "NVIDIA",
-   "title": "Silicon Co-design Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "a798e912775f",
-   "company": "NVIDIA",
-   "title": "AI Infra Development Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "b53fad8dc1eb",
-   "company": "NVIDIA",
-   "title": "DFT Engineer (RDSS Intern) - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180",
-   "locations": [
-    "2 Locations"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "659966adddfb",
-   "company": "NVIDIA",
-   "title": "Deep Learning Compiler Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262",
-   "locations": [
-    "2 Locations"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "0ead304f5bfa",
-   "company": "NVIDIA",
-   "title": "APAC Ecommerce Backend Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030",
-   "locations": [
-    "2 Locations"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1791272245,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "74d3bb75eded",
-   "company": "NVIDIA",
-   "title": "Business Development Management Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Business-Development-Management-Intern---2027_JR2026580",
-   "locations": [
-    "China, Beijing"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1791789992,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "ced0f1504daf",
-   "company": "NVIDIA",
-   "title": "Deep Learning Performance Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2026880",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "also_on": [
-    "Workday (NVIDIA)"
-   ],
-   "first_seen": 1791789992,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "98269cde6365",
-   "company": "NVIDIA",
-   "title": "Test Development Software Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "also_on": [
-    "Workday (NVIDIA)"
-   ],
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "4ee27a09d202",
-   "company": "NVIDIA",
-   "title": "SOC Design Team Methodology Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/SOC-Design-Team-Methodology-Intern---2027_JR2024861",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "3b621abd7659",
-   "company": "NVIDIA",
-   "title": "Architecture Energy Modeling Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Architecture-Energy-Modeling-Engineering-Intern---2027_JR2025424",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "adc83bc9dc5a",
-   "company": "NVIDIA",
-   "title": "Power Analysis and Optimization Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Power-Analysis-and-Optimization-Intern---2027_JR2025535",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "63f68c6d6f3f",
-   "company": "NVIDIA",
-   "title": "AI Computing Software Development Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
-   "locations": [
-    "2 Locations"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "187393200153",
-   "company": "NVIDIA",
-   "title": "Managed Language Compiler Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "04be9597fb28",
-   "company": "NVIDIA",
-   "title": "AI Computing Software Development Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
-   "locations": [
-    "Taiwan, Taipei"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "28a5ba6343f2",
-   "company": "NVIDIA",
-   "title": "GPU Compiler LLVM Backend Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1791247872,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "d6c3ae79ce49",
-   "company": "NVIDIA",
-   "title": "MLOps Physical AI Data Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544",
-   "locations": [
-    "China, Shanghai"
-   ],
-   "posted": 1791924810,
-   "source": "Workday (NVIDIA)",
-   "category": "",
-   "first_seen": 1791789992,
-   "us": false,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "fd0b50b5b25a",
    "company": "Vertiv",
    "title": "Data Analytics Intern",
@@ -39178,31 +39914,6 @@
     "reasons": [
      "Hardware category +18"
     ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "b344324e1bf7",
-   "company": "American Electric Power",
-   "title": "Data Scientist Intern",
-   "url": "https://go.vansh.nyc/cW",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "posted": 1791896871,
-   "source": "vanshb03",
-   "category": "",
-   "also_on": [
-    "vanshb03",
-    "vanshb03"
-   ],
-   "first_seen": 1792931805,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -41053,7 +41764,6 @@
    "category": "Hardware",
    "also_on": [
     "vanshb03",
-    "vanshb03",
     "vanshb03"
    ],
    "first_seen": 1792821513,
@@ -41681,29 +42391,6 @@
     "reasons": [
      "Hardware category +18",
      "title: hardware"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "69fd12b04f8f",
-   "company": "Tacit",
-   "title": "Data Scientist Intern",
-   "url": "https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true",
-   "locations": [
-    "SF"
-   ],
-   "posted": 1791504000,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1794471867,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -43403,32 +44090,6 @@
    "has_description": false
   },
   {
-   "id": "dd0308157f79",
-   "company": "GE Vernova",
-   "title": "SCS Commercial Strategy & Growth Intern",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1",
-   "locations": [
-    "Longmont, CO"
-   ],
-   "posted": 1791331200,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "also_on": [
-    "SimplifyJobs"
-   ],
-   "first_seen": 1791444559,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "b641aa7eb773",
    "company": "Salesforce",
    "title": "Tableau Research Intern",
@@ -43500,34 +44161,6 @@
     "reasons": [
      "Hardware category +18",
      "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "3057ca2de258",
-   "company": "Systems Planning and Analysis",
-   "title": "Data Engineering & Analytics Tools Intern",
-   "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
-   "locations": [
-    "Washington, DC"
-   ],
-   "posted": 1791331200,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "also_on": [
-    "vanshb03",
-    "vanshb03"
-   ],
-   "first_seen": 1793454145,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4",
-     "title: tools"
     ]
    },
    "flags": [],
@@ -44981,29 +45614,6 @@
    "has_description": false
   },
   {
-   "id": "2a7983895529",
-   "company": "RTX",
-   "title": "Application Portfolio Support Intern - Summer 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981",
-   "locations": [
-    "Farmington, CT"
-   ],
-   "posted": 1791244800,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1791357471,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "7d95c989e8f1",
    "company": "Ergotron",
    "title": "Software Engineer Intern",
@@ -46357,6 +46967,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "also_on": [
+    "vanshb03",
     "vanshb03"
    ],
    "first_seen": 1791135666,
@@ -46686,59 +47297,6 @@
     "reasons": [
      "AI/ML/Data category +4",
      "title: finance -30"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "684ba26b45db",
-   "company": "Affirm",
-   "title": "Software Engineer Intern - Machine Learning",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-   "locations": [
-    "SF"
-   ],
-   "posted": 1790979178,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1790982091,
-   "us": true,
-   "match": {
-    "score": 53,
-    "label": "Medium",
-    "reasons": [
-     "Software category +10",
-     "title: software",
-     "title: machine learning"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "b9f378a34d56",
-   "company": "Garmin",
-   "title": "Software Engineer Intern",
-   "url": "https://careers.garmin.com/jobs/20129?icims=1",
-   "locations": [
-    "Brea, CA"
-   ],
-   "posted": 1790979178,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "also_on": [
-    "vanshb03",
-    "vanshb03"
-   ],
-   "first_seen": 1793911318,
-   "us": true,
-   "match": {
-    "score": 57,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: software"
     ]
    },
    "flags": [],
@@ -47221,31 +47779,6 @@
     "label": "Medium",
     "reasons": [
      "Hardware category +18"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "3e027f5600c5",
-   "company": "General Motors",
-   "title": "Software Engineer Intern - AV/AI Platform",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-   "locations": [
-    "Sunnyvale, CA",
-    "Warren, MI"
-   ],
-   "posted": 1790899200,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1791009386,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
     ]
    },
    "flags": [],
@@ -53160,6 +53693,32 @@
    "has_description": false
   },
   {
+   "id": "52bd59da5da2",
+   "company": "Tyler Technologies",
+   "title": "Software Development Intern - Summer 2027",
+   "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
+   "locations": [
+    "Yarmouth, ME",
+    "Orono, ME",
+    "Falmouth, ME"
+   ],
+   "posted": 1790029561,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1791216490,
+   "us": true,
+   "match": {
+    "score": 49,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "44b8a20e60e5",
    "company": "Tyler Technologies",
    "title": "Software Development Intern",
@@ -54211,6 +54770,33 @@
     "label": "Low",
     "reasons": [
      "Product category -10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "8d38df71687a",
+   "company": "RTX",
+   "title": "Digital Hardware Design Engineer Co-op - Summer/Fall 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted": 1789689600,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "also_on": [
+    "Workday (RTX (Collins / Raytheon / Pratt))"
+   ],
+   "first_seen": 1794557143,
+   "us": true,
+   "match": {
+    "score": 61,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: hardware"
     ]
    },
    "flags": [],
@@ -55426,30 +56012,6 @@
     "reasons": [
      "AI/ML/Data category +4",
      "title: machine learning"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "d1240e12a6af",
-   "company": "Rendezvous Robotics",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
-   "locations": [
-    "Golden, CO"
-   ],
-   "posted": 1789581323,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "first_seen": 1793257897,
-   "us": true,
-   "match": {
-    "score": 57,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: software"
     ]
    },
    "flags": [],
@@ -56951,84 +57513,12 @@
    "has_description": false
   },
   {
-   "id": "8f73fe1bc93f",
-   "company": "BlackRock",
-   "title": "Quantitative Master's Intern - Investments - Quantitative Investing",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
-   "locations": [
-    "London, UK"
-   ],
-   "posted": 1789430400,
-   "source": "SimplifyJobs",
-   "category": "Quant",
-   "first_seen": 1790926137,
-   "us": false,
-   "match": {
-    "score": 0,
-    "label": "Low",
-    "reasons": [
-     "Quant category -6",
-     "title: master's -30"
-    ]
-   },
-   "flags": [
-    "grad-level"
-   ],
-   "has_description": false
-  },
-  {
-   "id": "0accdf2b3a5d",
-   "company": "BlackRock",
-   "title": "Quantitative Master’s Intern - Investments - Quantitative Investing",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473",
-   "locations": [
-    "NYC"
-   ],
-   "posted": 1789430400,
-   "source": "SimplifyJobs",
-   "category": "Quant",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 29,
-    "label": "Low",
-    "reasons": [
-     "Quant category -6"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "9acb094e8c62",
    "company": "BlackRock",
    "title": "Quantitative Master’s Intern - Investments - Global Capital Markets",
    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
    "locations": [
     "NYC"
-   ],
-   "posted": 1789430400,
-   "source": "SimplifyJobs",
-   "category": "Quant",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 29,
-    "label": "Low",
-    "reasons": [
-     "Quant category -6"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "ad867ff251ff",
-   "company": "BlackRock",
-   "title": "Quantitative Master’s Intern - Investments - Quantitative Investing",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474",
-   "locations": [
-    "SF"
    ],
    "posted": 1789430400,
    "source": "SimplifyJobs",
@@ -57069,29 +57559,6 @@
    "flags": [
     "grad-level"
    ],
-   "has_description": false
-  },
-  {
-   "id": "f807fb8019d3",
-   "company": "BlackRock",
-   "title": "Quantitative Master’s Internship - Technology - Analytics & Modeling",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
-   "locations": [
-    "SF"
-   ],
-   "posted": 1789430400,
-   "source": "SimplifyJobs",
-   "category": "Quant",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 29,
-    "label": "Low",
-    "reasons": [
-     "Quant category -6"
-    ]
-   },
-   "flags": [],
    "has_description": false
   },
   {
@@ -57156,7 +57623,6 @@
    "category": "Software",
    "also_on": [
     "SimplifyJobs",
-    "vanshb03",
     "vanshb03",
     "vanshb03",
     "vanshb03"
@@ -60333,6 +60799,30 @@
    "has_description": false
   },
   {
+   "id": "49abf7a37892",
+   "company": "Impulse Space",
+   "title": "RF Test Engineer Intern - Summer 2027",
+   "url": "https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq",
+   "locations": [
+    "Redondo Beach, CA"
+   ],
+   "posted": 1789079576,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 61,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: test engineer"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "b2d606b4ab00",
    "company": "Impulse Space",
    "title": "Flight Software Engineer Intern - Summer 2027",
@@ -61373,52 +61863,6 @@
    "has_description": false
   },
   {
-   "id": "15bdc4700c0e",
-   "company": "Pilot Company",
-   "title": "Process Automation Intern - Process Automation",
-   "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148576544",
-   "locations": [
-    "Knoxville, TN"
-   ],
-   "posted": 1788991481,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 45,
-    "label": "Low",
-    "reasons": [
-     "Software category +10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "4b3bc738405c",
-   "company": "Pilot Company",
-   "title": "GIS Intern - GIS",
-   "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148576444",
-   "locations": [
-    "Knoxville, TN"
-   ],
-   "posted": 1788991481,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "26c01e5511e2",
    "company": "Barnes & Thornburg",
    "title": "Information Security Intern",
@@ -61871,31 +62315,6 @@
     "label": "Low",
     "reasons": [
      "title: security"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "62cdc05b0ea9",
-   "company": "K2 Space",
-   "title": "Simulation Software Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008",
-   "locations": [
-    "LA"
-   ],
-   "posted": 1788935810,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 57,
-    "label": "Medium",
-    "reasons": [
-     "Software category +10",
-     "title: simulation",
-     "title: software"
     ]
    },
    "flags": [],
@@ -63421,6 +63840,7 @@
    "category": "AI/ML/Data",
    "also_on": [
     "SimplifyJobs",
+    "vanshb03",
     "vanshb03",
     "vanshb03"
    ],
@@ -67334,30 +67754,6 @@
    "has_description": false
   },
   {
-   "id": "de8d8f644dc1",
-   "company": "K2 Space",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008",
-   "locations": [
-    "LA"
-   ],
-   "posted": 1788242694,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 57,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "5ee1a14889b3",
    "company": "WhatNot",
    "title": "Software Engineer Intern",
@@ -69610,29 +70006,6 @@
    "has_description": false
   },
   {
-   "id": "f3e7233567e1",
-   "company": "TD Bank",
-   "title": "Graduate Leadership Program Commercial Banking Intern",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612",
-   "locations": [
-    "NYC"
-   ],
-   "posted": 1788134400,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1792759200,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "cc05095cf091",
    "company": "CACI",
    "title": "Software Engineer Co-op",
@@ -70063,6 +70436,29 @@
     "reasons": [
      "Software category +10",
      "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "7bd7e86e1929",
+   "company": "AB InBev",
+   "title": "Technology Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted": 1787875200,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1794557143,
+   "us": false,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -75018,7 +75414,9 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "also_on": [
-    "SimplifyJobs"
+    "SimplifyJobs",
+    "vanshb03",
+    "vanshb03"
    ],
    "first_seen": 1790926137,
    "us": true,
@@ -75808,34 +76206,6 @@
     "reasons": [
      "AI/ML/Data category +4",
      "title: infrastructure"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "90fafe695d74",
-   "company": "TikTok",
-   "title": "Fullstack Software Engineer Intern - Global E-Commerce",
-   "url": "https://lifeattiktok.com/search/7670700387322300677",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "posted": 1786065503,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "also_on": [
-    "vanshb03",
-    "vanshb03"
-   ],
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
     ]
    },
    "flags": [],
@@ -77750,9 +78120,10 @@
    "first_seen": 1790926137,
    "us": true,
    "match": {
-    "score": 38,
+    "score": 40,
     "label": "Low",
     "reasons": [
+     "desc: spacecraft",
      "desc: manufacturing",
      "desc: network"
     ]
@@ -78441,6 +78812,7 @@
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
    "also_on": [
+    "SimplifyJobs",
     "SimplifyJobs",
     "SimplifyJobs",
     "SimplifyJobs",
@@ -80816,24 +81188,23 @@
   },
   {
    "id": "450c0326b5e6",
-   "company": "Invitation-charter",
-   "title": "Data Science Intern",
-   "url": "https://go.vansh.nyc/1ku",
+   "company": "Serval",
+   "title": "Software Engineer Intern",
+   "url": "https://go.vansh.nyc/1kU",
    "locations": [
-    "Greenwood Village, CO"
+    "San Francisco, CA"
    ],
    "posted": 1783962155,
    "source": "vanshb03",
    "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
-    "score": 35,
+    "score": 39,
     "label": "Low",
-    "reasons": []
+    "reasons": [
+     "title: software"
+    ]
    },
    "flags": [],
    "has_description": false
