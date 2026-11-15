@@ -1,5 +1,5 @@
-# Internship feed run 2026-11-15 07:55 UTC
+# Internship feed run 2026-11-15 19:23 UTC
 
-## 6 new postings
+## 7 new postings
 
 _Match is a keyword heuristic on the title (and the description when the company board provides one), not a prediction._
