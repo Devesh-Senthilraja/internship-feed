@@ -1,10 +1,10 @@
-# Internship feed run 2026-11-16 08:02 UTC
+# Internship feed run 2026-11-16 22:55 UTC
 
-## 9 new postings
+## 36 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (61) | Southern States, LLC | [Electrical Engineer Intern](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1) | Hampton, GA |
+| Medium (64) | Anduril | [2027 Industrial Equipment Maintenance Intern](https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007) | Ashville, Ohio, United States |
 
 ## Sources that failed
 
