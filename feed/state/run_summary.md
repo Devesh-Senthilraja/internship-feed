@@ -1,12 +1,11 @@
-# Internship feed run 2026-11-17 21:48 UTC
+# Internship feed run 2026-11-18 08:36 UTC
 
-## 18 new postings
+## 22 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (63) | Anduril | [2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Santa Ana, California, United States |
-| Medium (53) | Marvell | [Architecture Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613) | Burlington, VT |
-| Medium (52) | Anduril | [2027 Product Data Quality Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007) | Santa Ana, California, United States |
+| Medium (61) | Lightmatter | [Product & Test Engineering Intern](https://boards.greenhouse.io/lightmatter/jobs/5474690008) | Mountain View, CA |
+| Medium (53) | Deeplocal | [Engineering Intern](https://job-boards.greenhouse.io/deeplocal/jobs/8395842) | Pittsburgh, PA |
 
 ## Sources that failed
 
