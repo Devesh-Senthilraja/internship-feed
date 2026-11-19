@@ -1,11 +1,11 @@
-# Internship feed run 2026-11-18 21:27 UTC
+# Internship feed run 2026-11-19 08:52 UTC
 
-## 12 new postings
+## 14 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (65) | Anduril | [2027 Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) | Costa Mesa, California, United States |
-| Medium (53) | The Aerospace Corporation | [Lidar Undergraduate Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) | El Segundo, CA |
+| Medium (67) | Toyota Research Institute | [Robotics Intern - Generalist Robot Learning](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) | Los Altos, CA |
+| Medium (61) | Lightmatter | [Photonics Circuit Simulation Intern](https://boards.greenhouse.io/lightmatter/jobs/5479849008) | Mountain View, CA |
 
 ## Sources that failed
 
