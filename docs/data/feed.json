@@ -1,5 +1,5 @@
 {
- "generated_at": 1795249203,
+ "generated_at": 1795291710,
  "term": "Summer 2027",
  "sources": [
   {
@@ -7,14 +7,14 @@
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
    "ok": true,
-   "count": 2248
+   "count": 2249
   },
   {
    "name": "vanshb03",
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/vanshb03/Summer2027-Internships",
    "ok": true,
-   "count": 2020
+   "count": 2022
   },
   {
    "name": "Greenhouse (SpaceX)",
@@ -43,7 +43,7 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
    "ok": false,
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "name": "Workday (RTX (Collins / Raytheon / Pratt))",
@@ -51,7 +51,7 @@
    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
    "ok": false,
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "name": "Live-site corrections",
@@ -61,8 +61,31 @@
    "count": -1
   }
  ],
- "count": 3190,
+ "count": 3193,
  "postings": [
+  {
+   "id": "bb98b58b0d29",
+   "company": "NVIDIA",
+   "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
+   "url": "https://go.vansh.nyc/1Gd",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted": 1795245024,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 5,
+    "label": "Low",
+    "reasons": [
+     "title: marketing -30"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
   {
    "id": "51e0821a649c",
    "company": "Canadian Solar",
@@ -150,6 +173,27 @@
      "Software category +10",
      "title: tools"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "ae620fd1ca7b",
+   "company": "Activision Blizzard",
+   "title": "Data Platform Engineering Intern",
+   "url": "https://go.vansh.nyc/1Ge",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "posted": 1795223480,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -1918,6 +1962,102 @@
    "has_description": false
   },
   {
+   "id": "197e7e23831e",
+   "company": "Walmart",
+   "title": "MBA Product Manager Intern - MBA",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
+   "locations": [
+    "Bentonville, AR"
+   ],
+   "posted": 1795132800,
+   "source": "SimplifyJobs",
+   "category": "Product",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 0,
+    "label": "Low",
+    "reasons": [
+     "Product category -10",
+     "title: mba -30"
+    ]
+   },
+   "flags": [
+    "grad-level"
+   ],
+   "has_description": false
+  },
+  {
+   "id": "7ba1c0dc3612",
+   "company": "Woodward Governor",
+   "title": "AI Intern",
+   "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+   "locations": [
+    "Niles, IL",
+    "Fort Collins, CO"
+   ],
+   "posted": 1795132800,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 45,
+    "label": "Low",
+    "reasons": [
+     "Software category +10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "0c02eb904079",
+   "company": "AriensCo",
+   "title": "Product Management Intern",
+   "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
+   "locations": [
+    "Brillion, WI"
+   ],
+   "posted": 1795132800,
+   "source": "SimplifyJobs",
+   "category": "Product",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 25,
+    "label": "Low",
+    "reasons": [
+     "Product category -10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "f65a51767c30",
+   "company": "Littelfuse",
+   "title": "R&D Engineering Intern",
+   "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1",
+   "locations": [
+    "Rapid City, SD"
+   ],
+   "posted": 1795132800,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 53,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "db052fd4fcea",
    "company": "Cisco",
    "title": "Data Science Analyst II Intern",
@@ -2829,6 +2969,54 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "9933b0039769",
+   "company": "Compassion International",
+   "title": "Summer Intern - Data and Software Engineering",
+   "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "posted": 1795046400,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "eba409866b2f",
+   "company": "MBDA",
+   "title": "Software Work Experience Intern",
+   "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714",
+   "locations": [
+    "Stevenage, UK"
+   ],
+   "posted": 1795046400,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1795291710,
+   "us": false,
+   "match": {
+    "score": 57,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: software"
     ]
    },
    "flags": [],
@@ -5424,6 +5612,29 @@
    "has_description": false
   },
   {
+   "id": "80b7fdf4fa10",
+   "company": "Blizzard Entertainment",
+   "title": "Data Platform Engineering Intern - Data Platform Engineering",
+   "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "posted": 1794787200,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1795291710,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "cdc51a60d9f1",
    "company": "Addepar",
    "title": "Technical Product Management Intern, ADX",
@@ -7746,27 +7957,22 @@
    "has_description": false
   },
   {
-   "id": "8c8d9c015b93",
+   "id": "71173fecd3be",
    "company": "Microsoft",
-   "title": "Data Scientist Intern - CoreAI",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
+   "title": "Data Scientist Intern, CoreAI",
+   "url": "https://go.vansh.nyc/1wj",
    "locations": [
     "Redmond, WA"
    ],
    "posted": 1794478846,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "also_on": [
-    "vanshb03"
-   ],
-   "first_seen": 1794516810,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1795291710,
    "us": true,
    "match": {
-    "score": 39,
+    "score": 35,
     "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -10692,29 +10898,6 @@
     "label": "Low",
     "reasons": [
      "Product category -10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "9b8f0105043d",
-   "company": "Trimble",
-   "title": "Software Engineering Intern",
-   "url": "https://go.vansh.nyc/1rP",
-   "locations": [
-    "Knoxville, TN"
-   ],
-   "posted": 1794337080,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794342547,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
     ]
    },
    "flags": [],
@@ -21172,31 +21355,6 @@
    "has_description": false
   },
   {
-   "id": "e5103ed2279d",
-   "company": "NXP Semiconductors",
-   "title": "Hardware/Software System and Application Engineer Intern",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "posted": 1793577600,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "first_seen": 1793692690,
-   "us": true,
-   "match": {
-    "score": 65,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: hardware",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "dacc6c56fd1d",
    "company": "Merck",
    "title": "Future Talent Program Co-op - Patient Data Learning",
@@ -28681,29 +28839,6 @@
    "locations": [
     "Dallas, TX",
     "Franklin, TN"
-   ],
-   "posted": 1793059200,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1793141963,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "0ad922b5687d",
-   "company": "The Federal Reserve System",
-   "title": "REIN Data Intern",
-   "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089",
-   "locations": [
-    "Atlanta, GA"
    ],
    "posted": 1793059200,
    "source": "SimplifyJobs",
@@ -40849,54 +40984,6 @@
     "reasons": [
      "Hardware category +18",
      "title: firmware"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "b096c3c00b12",
-   "company": "Electronic Arts",
-   "title": "Software Engineer Co-op",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "posted": 1791584462,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1791587920,
-   "us": false,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "ef59ae2f0eaa",
-   "company": "Electronic Arts",
-   "title": "Gameplay Software Engineer Co-op",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "posted": 1791584461,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1791587920,
-   "us": false,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
     ]
    },
    "flags": [],
@@ -56231,6 +56318,9 @@
    "posted": 1789218404,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793824015,
    "us": true,
    "match": {
@@ -57396,6 +57486,29 @@
    "has_description": false
   },
   {
+   "id": "55b4a769d52e",
+   "company": "Genworth Financial",
+   "title": "Data Analytics Intern - Summer 2027",
+   "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1",
+   "locations": [
+    "Richmond, VA"
+   ],
+   "posted": 1789084800,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "0c00e0a16cc7",
    "company": "HNTB",
    "title": "GIS Intern",
@@ -58147,32 +58260,6 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "b2f6d59a55b6",
-   "company": "Walmart",
-   "title": "Software Engineer 2 Intern",
-   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
-   "locations": [
-    "Bentonville, AR",
-    "Bellevue, WA",
-    "Sunnyvale, CA"
-   ],
-   "posted": 1788998400,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
     ]
    },
    "flags": [],
@@ -63574,32 +63661,6 @@
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "8d78a60a1850",
-   "company": "Edison International",
-   "title": "Summer Internship - Data Analytics/Science/Applied Math",
-   "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors",
-   "locations": [
-    "Santa Ana, CA",
-    "Fullerton, CA",
-    "Irvine, CA",
-    "Westminster, CA"
-   ],
-   "posted": 1788253876,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1792931805,
    "us": true,
    "match": {
     "score": 39,
