@@ -1,5 +1,5 @@
 {
- "generated_at": 1795334681,
+ "generated_at": 1795379024,
  "term": "Summer 2027",
  "sources": [
   {
@@ -7,14 +7,14 @@
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
    "ok": true,
-   "count": 2257
+   "count": 2251
   },
   {
    "name": "vanshb03",
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/vanshb03/Summer2027-Internships",
    "ok": true,
-   "count": 2024
+   "count": 2022
   },
   {
    "name": "Greenhouse (SpaceX)",
@@ -61,8 +61,32 @@
    "count": -1
   }
  ],
- "count": 3202,
+ "count": 3196,
  "postings": [
+  {
+   "id": "3e60c71c278b",
+   "company": "Neogen",
+   "title": "Embedded Systems Engineer Intern",
+   "url": "https://go.vansh.nyc/1Gp",
+   "locations": [
+    "Oakdale, MN"
+   ],
+   "posted": 1795360645,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1793824015,
+   "us": true,
+   "match": {
+    "score": 57,
+    "label": "Medium",
+    "reasons": [
+     "title: embedded",
+     "title: systems engineer"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
   {
    "id": "5cf9686ca099",
    "company": "Neros Technologies",
@@ -4424,29 +4448,6 @@
    "has_description": false
   },
   {
-   "id": "642e4aa9a563",
-   "company": "HexArmor",
-   "title": "Software Engineer Intern",
-   "url": "https://go.vansh.nyc/1AQ",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "posted": 1794875463,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1794907012,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "e32d72929195",
    "company": "SAS",
    "title": "Econometrics Intern",
@@ -6775,29 +6776,6 @@
     "label": "Low",
     "reasons": [
      "title: security"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "a9e514ae0915",
-   "company": "Verisk",
-   "title": "Data Science/AI Intern",
-   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
-   "locations": [
-    "Lehi, UT"
-   ],
-   "posted": 1794582864,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1794601850,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -21647,29 +21625,6 @@
    "has_description": false
   },
   {
-   "id": "e20ae792473b",
-   "company": "KLA",
-   "title": "Software Engineer Intern",
-   "url": "https://go.vansh.nyc/1b9",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted": 1793577600,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1793692690,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "880ad8fecbce",
    "company": "Astro Mechanica",
    "title": "Software Engineer Intern",
@@ -31869,30 +31824,6 @@
    "has_description": false
   },
   {
-   "id": "2ea12d5f5e6a",
-   "company": "Trimble",
-   "title": "Software Engineer Intern",
-   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
-   "locations": [
-    "Richmond Hill, ON, Canada"
-   ],
-   "posted": 1792713600,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "first_seen": 1792821513,
-   "us": false,
-   "match": {
-    "score": 57,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "76f7f301d4dc",
    "company": "Citi",
    "title": "Technology Summer Analyst Intern - Application Development",
@@ -33556,27 +33487,6 @@
     "reasons": [
      "title: software"
     ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "1ec300a84b24",
-   "company": "Toyota",
-   "title": "Data Science Intern, TFS",
-   "url": "https://go.vansh.nyc/dm",
-   "locations": [
-    "Plano, TX"
-   ],
-   "posted": 1792566000,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1792931805,
-   "us": true,
-   "match": {
-    "score": 35,
-    "label": "Low",
-    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -41922,81 +41832,6 @@
    "has_description": false
   },
   {
-   "id": "b20989ca4b7b",
-   "company": "Workday",
-   "title": "Machine Learning Engineer Intern",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
-   "locations": [
-    "Pleasanton, CA"
-   ],
-   "posted": 1791504000,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "also_on": [
-    "vanshb03",
-    "vanshb03"
-   ],
-   "first_seen": 1791616447,
-   "us": true,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4",
-     "title: machine learning"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "634767df081b",
-   "company": "Workday",
-   "title": "Software Application Development Engineer Intern",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
-   "locations": [
-    "Pleasanton, CA"
-   ],
-   "posted": 1791504000,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1791616447,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "ed39d959d31b",
-   "company": "Workday",
-   "title": "Product Manager Intern",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
-   "locations": [
-    "Pleasanton, CA"
-   ],
-   "posted": 1791504000,
-   "source": "SimplifyJobs",
-   "category": "Product",
-   "first_seen": 1791640214,
-   "us": true,
-   "match": {
-    "score": 25,
-    "label": "Low",
-    "reasons": [
-     "Product category -10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "2a0bef564c13",
    "company": "Amazon",
    "title": "Cloud Hardware Development Engineer Intern",
@@ -42246,6 +42081,32 @@
     "label": "Low",
     "reasons": [
      "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "1a1e71529259",
+   "company": "Workday",
+   "title": "Machine Learning Engineer Intern",
+   "url": "https://go.vansh.nyc/Gs",
+   "locations": [
+    "Pleasanton, CA"
+   ],
+   "posted": 1791504000,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1792931805,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: machine learning"
     ]
    },
    "flags": [],
@@ -44333,30 +44194,27 @@
    "has_description": false
   },
   {
-   "id": "1c1bdfd03893",
+   "id": "3eac8c4c158e",
    "company": "American Family Insurance Group",
    "title": "Business Intelligence Enablement Intern",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531",
+   "url": "https://go.vansh.nyc/fc",
    "locations": [
     "Madison, WI",
     "Boston, MA"
    ],
    "posted": 1791267435,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
+   "source": "vanshb03",
+   "category": "",
    "also_on": [
-    "vanshb03",
     "vanshb03",
     "vanshb03"
    ],
-   "first_seen": 1792735490,
+   "first_seen": 1795379024,
    "us": true,
    "match": {
-    "score": 39,
+    "score": 35,
     "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -63894,20 +63752,20 @@
    "has_description": false
   },
   {
-   "id": "7d995f7023ea",
+   "id": "8d78a60a1850",
    "company": "Edison International",
-   "title": "Intern - Multiple Teams",
-   "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors",
+   "title": "Summer Internship - Data Analytics/Science/Applied Math",
+   "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors",
    "locations": [
     "Santa Ana, CA",
     "Fullerton, CA",
     "Irvine, CA",
     "Westminster, CA"
    ],
-   "posted": 1788253875,
+   "posted": 1788253876,
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
-   "first_seen": 1790926137,
+   "first_seen": 1792931805,
    "us": true,
    "match": {
     "score": 39,
