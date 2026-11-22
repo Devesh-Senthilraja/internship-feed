@@ -1,5 +1,5 @@
 {
- "generated_at": 1795291710,
+ "generated_at": 1795334681,
  "term": "Summer 2027",
  "sources": [
   {
@@ -7,14 +7,14 @@
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
    "ok": true,
-   "count": 2249
+   "count": 2257
   },
   {
    "name": "vanshb03",
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/vanshb03/Summer2027-Internships",
    "ok": true,
-   "count": 2022
+   "count": 2024
   },
   {
    "name": "Greenhouse (SpaceX)",
@@ -61,8 +61,58 @@
    "count": -1
   }
  ],
- "count": 3193,
+ "count": 3202,
  "postings": [
+  {
+   "id": "5cf9686ca099",
+   "company": "Neros Technologies",
+   "title": "Firmware/Embedded Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted": 1795311965,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 85,
+    "label": "High",
+    "reasons": [
+     "Hardware category +18",
+     "title: embedded",
+     "title: firmware",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "453b20742927",
+   "company": "Neros Technologies",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted": 1795300697,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 61,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: electrical"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
   {
    "id": "bb98b58b0d29",
    "company": "NVIDIA",
@@ -289,6 +339,33 @@
     "label": "Medium",
     "reasons": [
      "Hardware category +18"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "a4f5a0683603",
+   "company": "Neros Technologies",
+   "title": "Autonomy Intern",
+   "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted": 1795219200,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 53,
+    "label": "Medium",
+    "reasons": [
+     "AI/ML/Data category +4",
+     "title: autonomy"
     ]
    },
    "flags": [],
@@ -2058,6 +2135,56 @@
    "has_description": false
   },
   {
+   "id": "6579c9da3d91",
+   "company": "Advance Auto Parts",
+   "title": "Data Science Intern",
+   "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "posted": 1795132800,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "946dc85fc81c",
+   "company": "NVIDIA",
+   "title": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted": 1795132800,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 15,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: marketing -30"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "db052fd4fcea",
    "company": "Cisco",
    "title": "Data Science Analyst II Intern",
@@ -2132,6 +2259,27 @@
    "source": "vanshb03",
    "category": "",
    "first_seen": 1795249203,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "24f6e4c4d27e",
+   "company": "Worthington Enterprises",
+   "title": "AI Intern",
+   "url": "https://go.vansh.nyc/1Gj",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "posted": 1795132800,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1793824015,
    "us": true,
    "match": {
     "score": 35,
@@ -3017,6 +3165,78 @@
     "reasons": [
      "Hardware category +18",
      "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "c19fd67a9faf",
+   "company": "TransUnion",
+   "title": "Data Science and Analytics Intern",
+   "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "posted": 1795046400,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "dfbbb53ac77f",
+   "company": "NVIDIA",
+   "title": "Applied Research Scientist Intern - Agentic Biology",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+   "locations": [
+    "United States"
+   ],
+   "posted": 1795046400,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "18eea35aeea3",
+   "company": "Schnucks",
+   "title": "Data Science Generative AI Intern",
+   "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+   "locations": [
+    "St. Louis, MO",
+    "Missouri",
+    "Indiana",
+    "Illinois"
+   ],
+   "posted": 1795046400,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -4463,30 +4683,6 @@
    "has_description": true
   },
   {
-   "id": "f1314f80e511",
-   "company": "ServiceNow",
-   "title": "Associate Forward Deployed Solution Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
-   "locations": [
-    "Santa Clara, CA",
-    "NYC"
-   ],
-   "posted": 1794872241,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1794907012,
-   "us": true,
-   "match": {
-    "score": 45,
-    "label": "Low",
-    "reasons": [
-     "Software category +10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "1bec7b288020",
    "company": "ServiceNow",
    "title": "Forward Deployed Solution Engineer Intern",
@@ -5135,9 +5331,6 @@
    "posted": 1794843089,
    "source": "vanshb03",
    "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1794869711,
    "us": false,
    "match": {
@@ -5629,6 +5822,30 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "942864799ee0",
+   "company": "RTX",
+   "title": "Advanced Effector Guidance Systems Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393-1",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted": 1794787200,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1795334681,
+   "us": true,
+   "match": {
+    "score": 61,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: electrical"
     ]
    },
    "flags": [],
@@ -6574,9 +6791,6 @@
    "posted": 1794582864,
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1794601850,
    "us": true,
    "match": {
@@ -7210,29 +7424,6 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "3c2109244e7a",
-   "company": "Capital Group",
-   "title": "Global Technology Summer Associate Intern",
-   "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "posted": 1794528000,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1794641933,
-   "us": true,
-   "match": {
-    "score": 45,
-    "label": "Low",
-    "reasons": [
-     "Software category +10"
     ]
    },
    "flags": [],
@@ -15422,29 +15613,6 @@
    "has_description": false
   },
   {
-   "id": "9d697f917b27",
-   "company": "The Federal Reserve System",
-   "title": "Statistics Intern",
-   "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "posted": 1793923200,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1794035753,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "37311b6c108f",
    "company": "Vizient",
    "title": "Intern Revenue Intelligence - Revenue Intelligence",
@@ -15490,6 +15658,30 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "006675da4839",
+   "company": "Salesforce",
+   "title": "Product Management Intern - Product Management",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659",
+   "locations": [
+    "SF",
+    "NYC"
+   ],
+   "posted": 1793923200,
+   "source": "SimplifyJobs",
+   "category": "Product",
+   "first_seen": 1794035753,
+   "us": true,
+   "match": {
+    "score": 25,
+    "label": "Low",
+    "reasons": [
+     "Product category -10"
     ]
    },
    "flags": [],
@@ -17148,30 +17340,6 @@
    "has_description": false
   },
   {
-   "id": "12a1bc98c7f8",
-   "company": "Expedia Group",
-   "title": "Machine Learning Science Intern",
-   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737-2",
-   "locations": [
-    "London, UK"
-   ],
-   "posted": 1793836800,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1793911318,
-   "us": false,
-   "match": {
-    "score": 43,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4",
-     "title: machine learning"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "4a087ebe408c",
    "company": "The Federal Reserve System",
    "title": "Knowledge and Information Management Intern",
@@ -17712,6 +17880,9 @@
    "posted": 1793810108,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793824015,
    "us": true,
    "match": {
@@ -17798,6 +17969,9 @@
    "posted": 1793796962,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793824015,
    "us": true,
    "match": {
@@ -29827,29 +30001,6 @@
    "has_description": false
   },
   {
-   "id": "59ac23046152",
-   "company": "The Federal Reserve System",
-   "title": "Community and Economic Development Intern",
-   "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "posted": 1792972800,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1793056201,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "a1c6b83a93a4",
    "company": "Zebra Technologies",
    "title": "Product Management Intern",
@@ -31548,6 +31699,32 @@
    "has_description": false
   },
   {
+   "id": "db6dc4feef98",
+   "company": "CVS Health",
+   "title": "Software Engineering Intern, Data & Intelligence",
+   "url": "https://go.vansh.nyc/gu",
+   "locations": [
+    "New York, NY"
+   ],
+   "posted": 1792717505,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1792931805,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "b3ce0947ba16",
    "company": "Citi",
    "title": "Technology Placement Analyst Intern - Application Development",
@@ -32711,29 +32888,6 @@
    "has_description": false
   },
   {
-   "id": "5e52b55f431e",
-   "company": "TD Bank",
-   "title": "Technology Intern",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
-   "locations": [
-    "London, UK"
-   ],
-   "posted": 1792627200,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1792674052,
-   "us": false,
-   "match": {
-    "score": 45,
-    "label": "Low",
-    "reasons": [
-     "Software category +10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "6f6d43929711",
    "company": "LexisNexis Risk Solutions",
    "title": "Data Science & Fraud Analytics Placement Intern",
@@ -33519,6 +33673,33 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "57afc8114bff",
+   "company": "Expedia Group",
+   "title": "Machine Learning Science Intern",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
+   "locations": [
+    "London, UK"
+   ],
+   "posted": 1792540800,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "also_on": [
+    "SimplifyJobs"
+   ],
+   "first_seen": 1792649356,
+   "us": false,
+   "match": {
+    "score": 43,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4",
+     "title: machine learning"
     ]
    },
    "flags": [],
@@ -35436,6 +35617,29 @@
    "flags": [
     "grad-level"
    ],
+   "has_description": false
+  },
+  {
+   "id": "147cc6bf2084",
+   "company": "NVIDIA",
+   "title": "ASIC Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted": 1792368000,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1792450515,
+   "us": false,
+   "match": {
+    "score": 53,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18"
+    ]
+   },
+   "flags": [],
    "has_description": false
   },
   {
@@ -40924,6 +41128,27 @@
    "has_description": false
   },
   {
+   "id": "5e7e4ebf208d",
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Logic Design Intern",
+   "url": "https://go.vansh.nyc/GT",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "posted": 1791763200,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1792931805,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "c449669624e8",
    "company": "Realty Income",
    "title": "Technology Intern",
@@ -41735,10 +41960,6 @@
    "posted": 1791504000,
    "source": "SimplifyJobs",
    "category": "Software",
-   "also_on": [
-    "vanshb03",
-    "vanshb03"
-   ],
    "first_seen": 1791616447,
    "us": true,
    "match": {
@@ -42010,33 +42231,6 @@
    "url": "https://go.vansh.nyc/gn",
    "locations": [
     "Annapolis Junction, MD"
-   ],
-   "posted": 1791504000,
-   "source": "vanshb03",
-   "category": "",
-   "also_on": [
-    "vanshb03",
-    "vanshb03"
-   ],
-   "first_seen": 1792931805,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "db6dc4feef98",
-   "company": "CVS Health",
-   "title": "Software Engineering Intern, Data & Intelligence",
-   "url": "https://go.vansh.nyc/gu",
-   "locations": [
-    "New York, NY"
    ],
    "posted": 1791504000,
    "source": "vanshb03",
@@ -51763,6 +51957,32 @@
    "has_description": false
   },
   {
+   "id": "52bd59da5da2",
+   "company": "Tyler Technologies",
+   "title": "Software Development Intern - Summer 2027",
+   "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
+   "locations": [
+    "Yarmouth, ME",
+    "Orono, ME",
+    "Falmouth, ME"
+   ],
+   "posted": 1790029561,
+   "source": "SimplifyJobs",
+   "category": "Software",
+   "first_seen": 1791216490,
+   "us": true,
+   "match": {
+    "score": 49,
+    "label": "Low",
+    "reasons": [
+     "Software category +10",
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "44b8a20e60e5",
    "company": "Tyler Technologies",
    "title": "Software Development Intern",
@@ -55231,6 +55451,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "also_on": [
+    "vanshb03",
     "vanshb03"
    ],
    "first_seen": 1790926137,
@@ -68771,6 +68992,30 @@
    "has_description": false
   },
   {
+   "id": "3bf97c48ffb6",
+   "company": "NVIDIA",
+   "title": "Hardware Design for Test Intern - DFT",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted": 1787097600,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1790926137,
+   "us": true,
+   "match": {
+    "score": 61,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: hardware"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "efb55ede4516",
    "company": "Avery Dennison",
    "title": "RFID Applications Engineer Co-op - Summer 2027 - Plus one semester",
@@ -77625,30 +77870,6 @@
     "label": "Medium",
     "reasons": [
      "title: autonomous",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "5e5f3223132f",
-   "company": "Ellipsis Labs",
-   "title": "Software Engineer",
-   "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application",
-   "locations": [
-    "NYC"
-   ],
-   "posted": 1774563646,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1790926137,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
      "title: software"
     ]
    },
