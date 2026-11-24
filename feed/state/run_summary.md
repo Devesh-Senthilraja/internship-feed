@@ -1,12 +1,11 @@
-# Internship feed run 2026-11-24 00:59 UTC
+# Internship feed run 2026-11-24 11:03 UTC
 
-## 40 new postings
+## 18 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| High (71) | ViaSat | [Embedded Software Engineer Intern](https://careers.viasat.com/jobs/10478?icims=1&lang=en-us) | Tempe, AZ |
-| Medium (69) | Shield AI | [Hardware Test Engineering Co-op](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) | Dallas, TX |
-| Medium (61) | Legrand | [Electrical Engineer Intern](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948) | Canonsburg, PA |
+| Medium (67) | SharkNinja | [Firmware Engineer Intern - Advanced Development](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) | Needham, MA |
+| Medium (57) | Veolia | [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) | Boulder, CO |
 
 ## Sources that failed
 
