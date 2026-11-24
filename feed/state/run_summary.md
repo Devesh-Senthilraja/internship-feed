@@ -1,10 +1,12 @@
-# Internship feed run 2026-11-23 09:11 UTC
+# Internship feed run 2026-11-24 00:59 UTC
 
-## 12 new postings
+## 40 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (61) | Sierra Space | [Electrical Engineering Intern - Electrical Engineering](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1) | Madison, WI, Centennial, CO |
+| High (71) | ViaSat | [Embedded Software Engineer Intern](https://careers.viasat.com/jobs/10478?icims=1&lang=en-us) | Tempe, AZ |
+| Medium (69) | Shield AI | [Hardware Test Engineering Co-op](https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) | Dallas, TX |
+| Medium (61) | Legrand | [Electrical Engineer Intern](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948) | Canonsburg, PA |
 
 ## Sources that failed
 
