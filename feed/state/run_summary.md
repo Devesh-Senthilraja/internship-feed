@@ -1,10 +1,12 @@
-# Internship feed run 2026-11-24 23:03 UTC
+# Internship feed run 2026-11-25 09:54 UTC
 
-## 18 new postings
+## 16 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (53) | Marvell | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511) | Morrisville, NC, Santa Clara, CA |
+| Medium (53) | Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5493962008) | Boston, MA |
+| Medium (53) | Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5474684008) | Mountain View, CA |
+| Medium (53) | Ameren | [Robotics, AI, OT, Software Development Intern](https://go.vansh.nyc/1Iz) | St. Louis, MO |
 
 ## Sources that failed
 
