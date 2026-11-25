@@ -1,12 +1,10 @@
-# Internship feed run 2026-11-25 09:54 UTC
+# Internship feed run 2026-11-25 22:36 UTC
 
-## 16 new postings
+## 8 new postings
 
 | Match | Company | Role | Location |
 |---|---|---|---|
-| Medium (53) | Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5493962008) | Boston, MA |
-| Medium (53) | Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5474684008) | Mountain View, CA |
-| Medium (53) | Ameren | [Robotics, AI, OT, Software Development Intern](https://go.vansh.nyc/1Iz) | St. Louis, MO |
+| Medium (53) | Aerospace Corporation | [Embedded Software Engineering Undergrad Intern](https://go.vansh.nyc/1J8) | El Segundo, CA |
 
 ## Sources that failed
 
