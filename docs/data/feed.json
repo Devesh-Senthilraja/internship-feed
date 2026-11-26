@@ -1,5 +1,5 @@
 {
- "generated_at": 1795685918,
+ "generated_at": 1795731815,
  "term": "Summer 2027",
  "sources": [
   {
@@ -7,14 +7,14 @@
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
    "ok": true,
-   "count": 2250
+   "count": 2251
   },
   {
    "name": "vanshb03",
    "kind": "Community tracker (GitHub)",
    "url": "https://github.com/vanshb03/Summer2027-Internships",
    "ok": true,
-   "count": 2051
+   "count": 2068
   },
   {
    "name": "Greenhouse (SpaceX)",
@@ -61,8 +61,56 @@
    "count": -1
   }
  ],
- "count": 3214,
+ "count": 3221,
  "postings": [
+  {
+   "id": "b0bf60116b0f",
+   "company": "AMD",
+   "title": "Hardware Engineering Intern",
+   "url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
+   "locations": [
+    "Belfast, UK"
+   ],
+   "posted": 1795701900,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1795731815,
+   "us": false,
+   "match": {
+    "score": 61,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: hardware"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "1a69325688e8",
+   "company": "Verisk",
+   "title": "Integration Analyst Intern",
+   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
+   "locations": [
+    "London, UK"
+   ],
+   "posted": 1795690985,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1795731815,
+   "us": false,
+   "match": {
+    "score": 47,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4",
+     "title: integration"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
   {
    "id": "fd97d4945a69",
    "company": "TikTok",
@@ -449,6 +497,27 @@
    "has_description": false
   },
   {
+   "id": "241724faec13",
+   "company": "Capital Blue Cross",
+   "title": "Cybersecurity Intern",
+   "url": "https://go.vansh.nyc/1KD",
+   "locations": [
+    "Harrisburg, PA"
+   ],
+   "posted": 1795634130,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1793995113,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "712796cc559b",
    "company": "Celestica",
    "title": "Engineering Data Analytics Intern",
@@ -490,6 +559,32 @@
     "label": "Low",
     "reasons": [
      "AI/ML/Data category +4"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "6d2a6745ffb2",
+   "company": "Lockheed Martin",
+   "title": "FPGA Engineer Intern, Security Focus",
+   "url": "https://go.vansh.nyc/1Ke",
+   "locations": [
+    "Owego, NY"
+   ],
+   "posted": 1795630154,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1793995113,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: security"
     ]
    },
    "flags": [],
@@ -610,6 +705,27 @@
    ],
    "first_seen": 1793951913,
    "us": false,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "6b6e401c3fb4",
+   "company": "Capital Blue Cross",
+   "title": "Data Engineering Intern",
+   "url": "https://go.vansh.nyc/1Kv",
+   "locations": [
+    "Harrisburg, PA"
+   ],
+   "posted": 1795576493,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1793995113,
+   "us": true,
    "match": {
     "score": 35,
     "label": "Low",
@@ -1058,29 +1174,6 @@
    "has_description": false
   },
   {
-   "id": "c3e3e72e6e3d",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Artificial Intelligence and Complex Systems Intern",
-   "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "posted": 1795552140,
-   "source": "SimplifyJobs",
-   "category": "AI/ML/Data",
-   "first_seen": 1795600464,
-   "us": true,
-   "match": {
-    "score": 39,
-    "label": "Low",
-    "reasons": [
-     "AI/ML/Data category +4"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "6b0b13e3ac44",
    "company": "PatientPoint",
    "title": "Data Engineer Intern",
@@ -1160,6 +1253,9 @@
    "posted": 1795542600,
    "source": "SimplifyJobs",
    "category": "AI/ML/Data",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1795600464,
    "us": true,
    "match": {
@@ -1266,6 +1362,27 @@
    "has_description": false
   },
   {
+   "id": "5c4d46ef66a9",
+   "company": "BEUMERGroup1",
+   "title": "AI Development Intern",
+   "url": "https://go.vansh.nyc/1Kn",
+   "locations": [
+    "Somerset, NJ"
+   ],
+   "posted": 1795533384,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1795731815,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "c7def786c436",
    "company": "Draper",
    "title": "Simulation Engineering Intern",
@@ -1329,30 +1446,6 @@
     "label": "Low",
     "reasons": [
      "Software category +10"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
-   "id": "84bd53b9b7f8",
-   "company": "Aerospace Corporation",
-   "title": "Embedded Software Engineering Undergrad Intern",
-   "url": "https://go.vansh.nyc/1J8",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "posted": 1795527907,
-   "source": "vanshb03",
-   "category": "",
-   "first_seen": 1795646194,
-   "us": true,
-   "match": {
-    "score": 53,
-    "label": "Medium",
-    "reasons": [
-     "title: embedded",
-     "title: software"
     ]
    },
    "flags": [],
@@ -1705,6 +1798,29 @@
     "reasons": [
      "Hardware category +18",
      "title: electrical"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "cfd923924042",
+   "company": "JP Morgan Chase",
+   "title": "Applied AI Intern - HR CDAO",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+   "locations": [
+    "NYC"
+   ],
+   "posted": 1795476248,
+   "source": "SimplifyJobs",
+   "category": "AI/ML/Data",
+   "first_seen": 1795481954,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "AI/ML/Data category +4"
     ]
    },
    "flags": [],
@@ -2120,6 +2236,29 @@
    "has_description": false
   },
   {
+   "id": "7647d52c71fb",
+   "company": "Lockheed Martin",
+   "title": "Software Engineer Intern",
+   "url": "https://go.vansh.nyc/1Ki",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "posted": 1795419464,
+   "source": "vanshb03",
+   "category": "",
+   "first_seen": 1795731815,
+   "us": true,
+   "match": {
+    "score": 39,
+    "label": "Low",
+    "reasons": [
+     "title: software"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
    "id": "594e8def74e1",
    "company": "Capital Technology Group",
    "title": "Data Engineering and Data Science Intern",
@@ -2456,6 +2595,29 @@
    "source": "SimplifyJobs",
    "category": "Product",
    "first_seen": 1795518220,
+   "us": true,
+   "match": {
+    "score": 25,
+    "label": "Low",
+    "reasons": [
+     "Product category -10"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "9d02fe49ffb9",
+   "company": "Zebra Technologies",
+   "title": "Product Management Intern",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
+   "locations": [
+    "Lincolnshire, IL"
+   ],
+   "posted": 1795392000,
+   "source": "SimplifyJobs",
+   "category": "Product",
+   "first_seen": 1795731815,
    "us": true,
    "match": {
     "score": 25,
@@ -5244,6 +5406,30 @@
     "reasons": [
      "title: machine learning"
     ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "86ffddcf4a31",
+   "company": "NinjaHoldings",
+   "title": "Data Science Intern",
+   "url": "https://go.vansh.nyc/1Kf",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "posted": 1795124583,
+   "source": "vanshb03",
+   "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
+   "first_seen": 1793995113,
+   "us": true,
+   "match": {
+    "score": 35,
+    "label": "Low",
+    "reasons": []
    },
    "flags": [],
    "has_description": false
@@ -17395,6 +17581,10 @@
    "posted": 1793975779,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03",
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -17462,6 +17652,9 @@
    "posted": 1793941596,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -17508,6 +17701,9 @@
    "posted": 1793937996,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -17529,6 +17725,9 @@
    "posted": 1793937996,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -18641,6 +18840,9 @@
    "posted": 1793896473,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -18781,9 +18983,6 @@
    "posted": 1793886733,
    "source": "vanshb03",
    "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1793911318,
    "us": true,
    "match": {
@@ -19904,9 +20103,6 @@
    "posted": 1793836800,
    "source": "vanshb03",
    "category": "",
-   "also_on": [
-    "vanshb03"
-   ],
    "first_seen": 1793911318,
    "us": false,
    "match": {
@@ -26951,30 +27147,6 @@
    "has_description": false
   },
   {
-   "id": "e4a10596d0ea",
-   "company": "Loft Orbital",
-   "title": "Test Engineering Intern - Test Engineering",
-   "url": "https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply",
-   "locations": [
-    "Golden, CO"
-   ],
-   "posted": 1793312667,
-   "source": "SimplifyJobs",
-   "category": "Hardware",
-   "first_seen": 1793316035,
-   "us": true,
-   "match": {
-    "score": 61,
-    "label": "Medium",
-    "reasons": [
-     "Hardware category +18",
-     "title: test engineering"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "c59331d14f2d",
    "company": "Samsung Semiconductor",
    "title": "Systems Software Engineering Intern",
@@ -27253,6 +27425,9 @@
    "posted": 1793286648,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -27276,6 +27451,9 @@
    "posted": 1793286501,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
@@ -53031,32 +53209,6 @@
    "has_description": false
   },
   {
-   "id": "52bd59da5da2",
-   "company": "Tyler Technologies",
-   "title": "Software Development Intern - Summer 2027",
-   "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
-   "locations": [
-    "Yarmouth, ME",
-    "Orono, ME",
-    "Falmouth, ME"
-   ],
-   "posted": 1790029561,
-   "source": "SimplifyJobs",
-   "category": "Software",
-   "first_seen": 1791216490,
-   "us": true,
-   "match": {
-    "score": 49,
-    "label": "Low",
-    "reasons": [
-     "Software category +10",
-     "title: software"
-    ]
-   },
-   "flags": [],
-   "has_description": false
-  },
-  {
    "id": "44b8a20e60e5",
    "company": "Tyler Technologies",
    "title": "Software Development Intern",
@@ -63306,6 +63458,7 @@
    "source": "SimplifyJobs",
    "category": "Hardware",
    "also_on": [
+    "vanshb03",
     "vanshb03"
    ],
    "first_seen": 1790926137,
@@ -63381,6 +63534,7 @@
    "source": "SimplifyJobs",
    "category": "Software",
    "also_on": [
+    "vanshb03",
     "vanshb03"
    ],
    "first_seen": 1790926137,
@@ -65546,6 +65700,30 @@
     "label": "Medium",
     "reasons": [
      "Hardware category +18"
+    ]
+   },
+   "flags": [],
+   "has_description": false
+  },
+  {
+   "id": "2fbe527f9dd6",
+   "company": "Aerotech",
+   "title": "Electrical/Computer Engineering Intern Co-op",
+   "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "posted": 1788218949,
+   "source": "SimplifyJobs",
+   "category": "Hardware",
+   "first_seen": 1792759200,
+   "us": true,
+   "match": {
+    "score": 61,
+    "label": "Medium",
+    "reasons": [
+     "Hardware category +18",
+     "title: electrical"
     ]
    },
    "flags": [],
@@ -74363,7 +74541,6 @@
     "SimplifyJobs",
     "SimplifyJobs",
     "SimplifyJobs",
-    "SimplifyJobs",
     "SimplifyJobs"
    ],
    "first_seen": 1790926137,
@@ -76474,6 +76651,9 @@
    "posted": 1783962155,
    "source": "vanshb03",
    "category": "",
+   "also_on": [
+    "vanshb03"
+   ],
    "first_seen": 1793995113,
    "us": true,
    "match": {
