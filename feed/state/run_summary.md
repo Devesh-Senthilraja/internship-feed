@@ -1,6 +1,6 @@
-# Internship feed run 2026-11-27 09:43 UTC
+# Internship feed run 2026-11-27 22:04 UTC
 
-## 16 new postings
+## 2 new postings
 
 ## Sources that failed
 
